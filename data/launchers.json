@@ -1,0 +1,235 @@
+{
+    "launchers": [
+        {
+            "id": "SLV-3E1"
+        },
+        {
+            "id": "SLV-3E2"
+        },
+        {
+            "id": "SLV-3D1"
+        },
+        {
+            "id": "SLV-3"
+        },
+        {
+            "id": "ASLV-D1"
+        },
+        {
+            "id": "ASLV-D2"
+        },
+        {
+            "id": "ASLV-D3"
+        },
+        {
+            "id": "PSLV-D1"
+        },
+        {
+            "id": "ASLV-D4"
+        },
+        {
+            "id": "PSLV-D2"
+        },
+        {
+            "id": "PSLV-D3"
+        },
+        {
+            "id": "PSLV-C1"
+        },
+        {
+            "id": "PSLV-C2"
+        },
+        {
+            "id": "GSLV-D1"
+        },
+        {
+            "id": "PSLV-C3"
+        },
+        {
+            "id": "PSLV-C4"
+        },
+        {
+            "id": "GSLV-D2"
+        },
+        {
+            "id": "PSLV-C5"
+        },
+        {
+            "id": "GSLV-F01"
+        },
+        {
+            "id": "PSLV-C6"
+        },
+        {
+            "id": "GSLV-F02"
+        },
+        {
+            "id": "PSLV-C7"
+        },
+        {
+            "id": "PSLV-C8"
+        },
+        {
+            "id": "GSLV-F04"
+        },
+        {
+            "id": "PSLV-C10"
+        },
+        {
+            "id": "PSLV-C9"
+        },
+        {
+            "id": "PSLV-C11"
+        },
+        {
+            "id": "PSLV-C12"
+        },
+        {
+            "id": "PSLV-C14"
+        },
+        {
+            "id": "GSLV-D3"
+        },
+        {
+            "id": "PSLV-C15"
+        },
+        {
+            "id": "GSLV-F06"
+        },
+        {
+            "id": "PSLV-C16"
+        },
+        {
+            "id": "PSLV-C17"
+        },
+        {
+            "id": "PSLV-C18"
+        },
+        {
+            "id": "PSLV-C19"
+        },
+        {
+            "id": "PSLV-C21"
+        },
+        {
+            "id": "PSLV-C20"
+        },
+        {
+            "id": "PSLV-C22"
+        },
+        {
+            "id": "PSLV-C25"
+        },
+        {
+            "id": "GSLV-D5"
+        },
+        {
+            "id": "PSLV-C24"
+        },
+        {
+            "id": "PSLV-C23"
+        },
+        {
+            "id": "PSLV-C26"
+        },
+        {
+            "id": "LVM-3"
+        },
+        {
+            "id": "PSLV-C27"
+        },
+        {
+            "id": "PSLV-C28"
+        },
+        {
+            "id": "GSLV-D6"
+        },
+        {
+            "id": "PSLV-C30"
+        },
+        {
+            "id": "PSLV-C29"
+        },
+        {
+            "id": "PSLV-C31"
+        },
+        {
+            "id": "PSLV-C32"
+        },
+        {
+            "id": "PSLV-C33"
+        },
+        {
+            "id": "RLV-TD"
+        },
+        {
+            "id": "PSLV-C34"
+        },
+        {
+            "id": "Scramjet Engine - TD"
+        },
+        {
+            "id": "GSLV-F05"
+        },
+        {
+            "id": "PSLV-C35"
+        },
+        {
+            "id": "PSLV-C36"
+        },
+        {
+            "id": "PSLV-C37"
+        },
+        {
+            "id": "GSLV-F09"
+        },
+        {
+            "id": "GSLV Mk III-D1"
+        },
+        {
+            "id": "PSLV-C38"
+        },
+        {
+            "id": "PSLV-C39"
+        },
+        {
+            "id": "PSLV-C40"
+        },
+        {
+            "id": "GSLV-F08"
+        },
+        {
+            "id": "PSLV-C41"
+        },
+        {
+            "id": "PSLV-C42"
+        },
+        {
+            "id": "GSLV Mk III-D2"
+        },
+        {
+            "id": "PSLV-C43"
+        },
+        {
+            "id": "GSLV-F11"
+        },
+        {
+            "id": "PSLV-C44"
+        },
+        {
+            "id": "PSLV-C45"
+        },
+        {
+            "id": "PSLV-C46"
+        },
+        {
+            "id": "GSLV-Mk III - M1"
+        },
+        {
+            "id": "PSLV-C47"
+        },
+        {
+            "id": "PSLV-C48"
+        }
+    ]
+}
