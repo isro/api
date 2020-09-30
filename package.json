@@ -1,0 +1,12 @@
+{
+  "name": "isro-api",
+  "version": "1.0.0",
+  "description": "API for ISRO",
+  "main": "index.js",
+  "repository": "isroapis.web.app",
+  "author": "Pramod Devireddy",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
