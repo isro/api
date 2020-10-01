@@ -1,0 +1,154 @@
+{
+    "spacecrafts": [
+        {
+            "id": "Aryabhata"
+        },
+        {
+            "id": "Bhaskara-I"
+        },
+        {
+            "id": "Rohini Technology Payload (RTP)"
+        },
+        {
+            "id": "Rohini Satellite RS-1"
+        },
+        {
+            "id": "Rohini Satellite RS-D1"
+        },
+        {
+            "id": "APPLE"
+        },
+        {
+            "id": "Bhaskara-II"
+        },
+        {
+            "id": "INSAT-1A"
+        },
+        {
+            "id": "Rohini Satellite RS-D2"
+        },
+        {
+            "id": "INSAT-1B"
+        },
+        {
+            "id": "SROSS-1"
+        },
+        {
+            "id": "IRS-1A"
+        },
+        {
+            "id": "SROSS-2"
+        },
+        {
+            "id": "INSAT-1C"
+        },
+        {
+            "id": "INSAT-1D"
+        },
+        {
+            "id": "IRS-1B"
+        },
+        {
+            "id": "SROSS-C"
+        },
+        {
+            "id": "INSAT-2A"
+        },
+        {
+            "id": "INSAT-2B"
+        },
+        {
+            "id": "IRS-1E"
+        },
+        {
+            "id": "SROSS-C2"
+        },
+        {
+            "id": "IRS-P2"
+        },
+        {
+            "id": "INSAT-2C"
+        },
+        {
+            "id": "IRS-1C"
+        },
+        {
+            "id": "IRS-P3"
+        },
+        {
+            "id": "INSAT-2D"
+        },
+        {
+            "id": "IRS-1D"
+        },
+        {
+            "id": "INSAT-2E"
+        },
+        {
+            "id": "Oceansat(IRS-P4)"
+        },
+        {
+            "id": "INSAT-3B"
+        },
+        {
+            "id": "GSAT-1"
+        },
+        {
+            "id": "The Technology Experiment Satellite (TES)"
+        },
+        {
+            "id": "INSAT-3C"
+        },
+        {
+            "id": "KALPANA-1"
+        },
+        {
+            "id": "INSAT-3A"
+        },
+        {
+            "id": "GSAT-2"
+        },
+        {
+            "id": "INSAT-3E"
+        },
+        {
+            "id": "IRS-P6 / RESOURCESAT-1"
+        },
+        {
+            "id": "EDUSAT"
+        },
+        {
+            "id": "HAMSAT"
+        },
+        {
+            "id": "CARTOSAT-1"
+        },
+        {
+            "id": "INSAT-4A"
+        },
+        {
+            "id": "INSAT-4C"
+        },
+        {
+            "id": "SRE-1"
+        },
+        {
+            "id": "CARTOSAT-2"
+        },
+        {
+            "id": "INSAT-4B"
+        },
+        {
+            "id": "INSAT-4CR"
+        },
+        {
+            "id": "CARTOSAT – 2A"
+        },
+        {
+            "id": "IMS-1"
+        },
+        {
+            "id": "Chandrayaan-1"
+        }
+    ]
+}
