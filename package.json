@@ -3,10 +3,9 @@
     "version": "0.0.1",
     "description": "API for ISRO",
     "main": "index.js",
-    "repository": "isroapis.web.app",
+    "repository": "isro.vercel.app",
     "author": "Pramod Devireddy",
     "license": "MIT",
-    "dependencies": {
-        "express": "^4.17.1"
-    }
+    "dependencies": {},
+    "devDependencies": {}
 }
