@@ -1,0 +1,46 @@
+{
+    "customer_satellites": [
+        {
+            "id": "DLR-TUBSAT",
+            "country": "Germany",
+            "launch_date": "26-05-1999",
+            "mass": "45",
+            "launcher": "PSLV-C2"
+        },
+        {
+            "id": "KITSAT-3",
+            "country": "REPUBLIC OF KOREA",
+            "launch_date": "26-05-1999",
+            "mass": "110",
+            "launcher": "PSLV-C2"
+        },
+        {
+            "id": "BIRD",
+            "country": "GERMANY",
+            "launch_date": "22-10-2001",
+            "mass": "92",
+            "launcher": "PSLV-C3"
+        },
+        {
+            "id": "PROBA",
+            "country": "BELGIUM",
+            "launch_date": "22-10-2001",
+            "mass": "94",
+            "launcher": "PSLV-C3"
+        },
+        {
+            "id": "LAPAN-TUBSAT",
+            "country": "INDONESIA",
+            "launch_date": "10-07-2007",
+            "mass": "56",
+            "launcher": "PSLV-C7"
+        },
+        {
+            "id": "PEHUENSAT-1",
+            "country": "ARGENTINA",
+            "launch_date": "10-07-2007",
+            "mass": "6",
+            "launcher": "PSLV-C7"
+        }
+    ]
+}
