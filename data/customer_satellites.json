@@ -76,6 +76,41 @@
       "launch_date": "28-04-2008",
       "mass": "6.5",
       "launcher": "PSLV-C9"
+    },
+    {
+      "id": "AAUSAT-II",
+      "country": "DENMARK",
+      "launch_date": "28-04-2008",
+      "mass": "3",
+      "launcher": "PSLV-C9"
+    },
+    {
+      "id": "COMPASS-I",
+      "country": "GERMANY",
+      "launch_date": "28-04-2008",
+      "mass": "3",
+      "launcher": "PSLV-C9"
+    },
+    {
+      "id": "SEEDS",
+      "country": "JAPAN",
+      "launch_date": "28-04-2008",
+      "mass": "3",
+      "launcher": "PSLV-C9"
+    },
+    {
+      "id": "NLSS",
+      "country": "CANADA",
+      "launch_date": "28-04-2008",
+      "mass": "16",
+      "launcher": "PSLV-C9"
+    },
+    {
+      "id": "RUBIN-8",
+      "country": "GERMANY",
+      "launch_date": "28-04-2008",
+      "mass": "8",
+      "launcher": "PSLV-C9"
     }
   ]
 }
