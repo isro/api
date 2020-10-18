@@ -146,6 +146,69 @@
       "launch_date": "23-09-2009",
       "mass": "1",
       "launcher": "PSLV-C14"
+    },
+    {
+      "id": "RUBIN-9.2",
+      "country": "GERMANY",
+      "launch_date": "23-09-2009",
+      "mass": "1",
+      "launcher": "PSLV-C14"
+    },
+    {
+      "id": "ALSAT-2A",
+      "country": "ALGERIA",
+      "launch_date": "12-07-2010",
+      "mass": "116",
+      "launcher": "PSLV-C15"
+    },
+    {
+      "id": "NLS6.1 AISSAT-1",
+      "country": "NORWAY",
+      "launch_date": "12-07-2010",
+      "mass": "6.5",
+      "launcher": "PSLV-C15"
+    },
+    {
+      "id": "NLS6.2 TISAT-1",
+      "country": "SWITZERLAND",
+      "launch_date": "12-07-2010",
+      "mass": "1",
+      "launcher": "PSLV-C15"
+    },
+    {
+      "id": "X-SAT",
+      "country": "SINGAPORE",
+      "launch_date": "20-04-2011",
+      "mass": "106",
+      "launcher": "PSLV-C16"
+    },
+    {
+      "id": "VesselSat-1",
+      "country": "LUXEMBOURG",
+      "launch_date": "12-10-2011",
+      "mass": "28.7",
+      "launcher": "PSLV-C18"
+    },
+    {
+      "id": "SPOT-6",
+      "country": "FRANCE",
+      "launch_date": "09-09-2012",
+      "mass": "712",
+      "launcher": "PSLV-C21"
+    },
+    {
+      "id": "PROITERES",
+      "country": "JAPAN",
+      "launch_date": "09-09-2012",
+      "mass": "15",
+      "launcher": "PSLV-C21"
+    },
+    {
+      "id": "SAPPHIRE",
+      "country": "CANADA",
+      "launch_date": "25-02-2013",
+      "mass": "148",
+      "launcher": "PSLV-C20"
     }
   ]
 }
