@@ -111,6 +111,41 @@
       "launch_date": "28-04-2008",
       "mass": "8",
       "launcher": "PSLV-C9"
+    },
+    {
+      "id": "CUBESAT-1",
+      "country": "GERMANY",
+      "launch_date": "23-09-2009",
+      "mass": "1",
+      "launcher": "PSLV-C14"
+    },
+    {
+      "id": "CUBESAT-2",
+      "country": "GERMANY",
+      "launch_date": "23-09-2009",
+      "mass": "1",
+      "launcher": "PSLV-C14"
+    },
+    {
+      "id": "CUBESAT-3",
+      "country": "TURKEY",
+      "launch_date": "23-09-2009",
+      "mass": "1",
+      "launcher": "PSLV-C14"
+    },
+    {
+      "id": "CUBESAT-4",
+      "country": "SWITZERLAND",
+      "launch_date": "23-09-2009",
+      "mass": "1",
+      "launcher": "PSLV-C14"
+    },
+    {
+      "id": "RUBIN-9.1",
+      "country": "GERMANY",
+      "launch_date": "23-09-2009",
+      "mass": "1",
+      "launcher": "PSLV-C14"
     }
   ]
 }
