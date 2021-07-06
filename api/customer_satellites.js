@@ -3,20 +3,20 @@
  * Project      : NetMon
  * Created Date : Thursday, Oct 8th 2020, 8:04:33 AM
  * Author       : Pramod Devireddy
- * 
+ *
  * Last Modified: Thursday, 8th October 2020 8:05:01 am
  * Modified By  : Pramod Devireddy
- * 
+ *
  * Copyright (c)2020 - Pramod Devireddy
  * ************************* Description *************************
- *  
+ *
  * ***************************************************************
  */
 
 
 const fs = require("fs");
 
-var launchers = require("../data/customer_satellites.json");
+let launchers = require("../data/customer_satellites.json");
 
 module.exports = async (req, res) => {
     try {

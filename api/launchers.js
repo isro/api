@@ -13,7 +13,7 @@
 
 const fs = require("fs");
 
-var launchers = require("../data/launchers.json");
+let launchers = require("../data/launchers.json");
 
 module.exports = async (req, res) => {
     try {
