@@ -13,7 +13,7 @@
 
 const fs = require("fs");
 
-var launchers = require("../data/spacecrafts.json");
+let launchers = require("../data/spacecrafts.json");
 
 module.exports = async (req, res) => {
     try {
