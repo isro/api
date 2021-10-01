@@ -209,6 +209,13 @@
       "launch_date": "25-02-2013",
       "mass": "148",
       "launcher": "PSLV-C20"
+    },
+    {
+      "id": "AMAZONIA-1",
+      "country": "BRAZUK",
+      "launch_date": "28-02-2021",
+      "mass": "637",
+      "launcher": "PSLV-C51"
     }
   ]
 }
