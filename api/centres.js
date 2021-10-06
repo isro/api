@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-let centers = require("../data/space_centers.json");
+let centers = require("../data/centres.json");
 
 module.exports = async (req, res) => {
     try {
