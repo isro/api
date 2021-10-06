@@ -1,5 +1,5 @@
 {
-    "space_centres": [
+    "centres": [
         {
             "id": 1,
             "name": "Semi-Conductor Laboratory (SCL)",
@@ -139,7 +139,7 @@
             "State": "Karnataka"
         },
         {
-            "id":24,
+            "id": 24,
             "name": "Liquid Propulsion Systems Centre (LPSC)",
             "Place": "Benagaluru",
             "State": "Karnataka"
