@@ -209,6 +209,41 @@
       "launch_date": "25-02-2013",
       "mass": "148",
       "launcher": "PSLV-C20"
+    },
+    {
+      "id": "SPOT-7",
+      "country": "FRANCE",
+      "launch_date": "30-06-2014",
+      "mass": "714",
+      "launcher": "PSLV-C23"
+    },
+    {
+      "id": "AISAT",
+      "country": "GERMANY",
+      "launch_date": "30-06-2014",
+      "mass": "14",
+      "launcher": "PSLV-C23"
+    },
+    {
+      "id": "NLS7.1(CAN-X4)",
+      "country": "CANADA",
+      "launch_date": "30-06-2014",
+      "mass": "15",
+      "launcher": "PSLV-C23"
+    },
+    {
+      "id": "NLS7.2(CAN-X5)",
+      "country": "CANADA",
+      "launch_date": "30-06-2014",
+      "mass": "15",
+      "launcher": "PSLV-C23"
+    },
+    {
+      "id": "VELOX-1",
+      "country": "SINGAPORE",
+      "launch_date": "30-06-2014",
+      "mass": "7",
+      "launcher": "PSLV-C23"
     }
   ]
 }
