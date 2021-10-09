@@ -247,10 +247,129 @@
     },
     {
       "id": "AMAZONIA-1",
-      "country": "BRAZUK",
+      "country": "BRAZIL",
       "launch_date": "28-02-2021",
       "mass": "637",
       "launcher": "PSLV-C51"
+    },
+    {
+      "id": "DMC3-1",
+      "country": "UK",
+      "launch_date": "10-07-2015",
+      "mass": "447",
+      "launcher": "PSLV-C28"
+    },
+    {
+      "id": "DMC3-2",
+      "country": "UK",
+      "launch_date": "10-07-2015",
+      "mass": "447",
+      "launcher": "PSLV-C28"
+    },
+    {
+      "id": "DMC3-3",
+      "country": "UK",
+      "launch_date": "10-07-2015",
+      "mass": "447",
+      "launcher": "PSLV-C28"
+    },
+    {
+      "id": "CBNT-1",
+      "country": "UK",
+      "launch_date": "10-07-2015",
+      "mass": "91",
+      "launcher": "PSLV-C28"
+    },
+    {
+      "id": "De-OrbitSail",
+      "country": "UK",
+      "launch_date": "10-07-2015",
+      "mass": "7",
+      "launcher": "PSLV-C28"
+    },
+    {
+      "id": "LAPAN-A2",
+      "country": "INDONESIA",
+      "launch_date": "28-09-2015",
+      "mass": "76",
+      "launcher": "PSLV-C30"
+    },
+    {
+      "id": "NLS-14(Ev9)",
+      "country": "CANADA",
+      "launch_date": "28-09-2015",
+      "mass": "14",
+      "launcher": "PSLV-C30"
+    },
+    {
+      "id": "LEMUR-1",
+      "country": "USA",
+      "launch_date": "28-09-2015",
+      "mass": "7",
+      "launcher": "PSLV-C30"
+    },
+    {
+      "id": "LEMUR-2",
+      "country": "USA",
+      "launch_date": "28-09-2015",
+      "mass": "7",
+      "launcher": "PSLV-C30"
+    },
+    {
+      "id": "LEMUR-3",
+      "country": "USA",
+      "launch_date": "28-09-2015",
+      "mass": "7",
+      "launcher": "PSLV-C30"
+    },
+    {
+      "id": "LEMUR-4",
+      "country": "USA",
+      "launch_date": "28-09-2015",
+      "mass": "7",
+      "launcher": "PSLV-C30"
+    },
+    {
+      "id": "TeLEOS",
+      "country": "SINGAPORE",
+      "launch_date": "16-12-2015",
+      "mass": "400",
+      "launcher": "PSLV-C29"
+    },
+    {
+      "id": "Kent Ridge-I",
+      "country": "SINGAPORE",
+      "launch_date": "16-12-2015",
+      "mass": "78",
+      "launcher": "PSLV-C29"
+    },
+    {
+      "id": "VELOX-C1",
+      "country": "SINGAPORE",
+      "launch_date": "16-12-2015",
+      "mass": "123",
+      "launcher": "PSLV-C29"
+    },
+    {
+      "id": "VELOX-II",
+      "country": "SINGAPORE",
+      "launch_date": "16-12-2015",
+      "mass": "13",
+      "launcher": "PSLV-C29"
+    },
+    {
+      "id": "Galassia",
+      "country": "SINGAPORE",
+      "launch_date": "16-12-2015",
+      "mass": "3.4",
+      "launcher": "PSLV-C29"
+    },
+    {
+      "id": "Athenoxat-I",
+      "country": "SINGAPORE",
+      "launch_date": "16-12-2015",
+      "mass": "",
+      "launcher": "PSLV-C29"
     }
   ]
 }
