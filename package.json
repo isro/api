@@ -1,10 +1,10 @@
 {
     "name": "isro-api",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "description": "API for ISRO",
     "main": "index.js",
     "repository": "isro.vercel.app",
-    "author": "Pramod Devireddy",
+    "author": "isro",
     "license": "MIT",
     "dependencies": {},
     "devDependencies": {}
