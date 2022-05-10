@@ -1,375 +1,375 @@
 {
-  "customer_satellites": [
-    {
-      "id": "DLR-TUBSAT",
-      "country": "Germany",
-      "launch_date": "26-05-1999",
-      "mass": "45",
-      "launcher": "PSLV-C2"
-    },
-    {
-      "id": "KITSAT-3",
-      "country": "REPUBLIC OF KOREA",
-      "launch_date": "26-05-1999",
-      "mass": "110",
-      "launcher": "PSLV-C2"
-    },
-    {
-      "id": "BIRD",
-      "country": "GERMANY",
-      "launch_date": "22-10-2001",
-      "mass": "92",
-      "launcher": "PSLV-C3"
-    },
-    {
-      "id": "PROBA",
-      "country": "BELGIUM",
-      "launch_date": "22-10-2001",
-      "mass": "94",
-      "launcher": "PSLV-C3"
-    },
-    {
-      "id": "LAPAN-TUBSAT",
-      "country": "INDONESIA",
-      "launch_date": "10-07-2007",
-      "mass": "56",
-      "launcher": "PSLV-C7"
-    },
-    {
-      "id": "PEHUENSAT-1",
-      "country": "ARGENTINA",
-      "launch_date": "10-07-2007",
-      "mass": "6",
-      "launcher": "PSLV-C7"
-    },
-    {
-      "id": "AGILE",
-      "country": "ITALY",
-      "launch_date": "23-04-2007",
-      "mass": "350",
-      "launcher": "PSLV-C8"
-    },
-    {
-      "id": "TESCAR",
-      "country": "ISRAEL",
-      "launch_date": "21-01-2008",
-      "mass": "300",
-      "launcher": "PSLV-C10"
-    },
-    {
-      "id": "CAN-X2",
-      "country": "CANADA",
-      "launch_date": "28-04-2008",
-      "mass": "7",
-      "launcher": "PSLV-C9"
-    },
-    {
-      "id": "CUTE-1.7",
-      "country": "JAPAN",
-      "launch_date": "28-04-2008",
-      "mass": "5",
-      "launcher": "PSLV-C9"
-    },
-    {
-      "id": "DELFI-C3",
-      "country": "THE NETHERLANDS",
-      "launch_date": "28-04-2008",
-      "mass": "6.5",
-      "launcher": "PSLV-C9"
-    },
-    {
-      "id": "AAUSAT-II",
-      "country": "DENMARK",
-      "launch_date": "28-04-2008",
-      "mass": "3",
-      "launcher": "PSLV-C9"
-    },
-    {
-      "id": "COMPASS-I",
-      "country": "GERMANY",
-      "launch_date": "28-04-2008",
-      "mass": "3",
-      "launcher": "PSLV-C9"
-    },
-    {
-      "id": "SEEDS",
-      "country": "JAPAN",
-      "launch_date": "28-04-2008",
-      "mass": "3",
-      "launcher": "PSLV-C9"
-    },
-    {
-      "id": "NLSS",
-      "country": "CANADA",
-      "launch_date": "28-04-2008",
-      "mass": "16",
-      "launcher": "PSLV-C9"
-    },
-    {
-      "id": "RUBIN-8",
-      "country": "GERMANY",
-      "launch_date": "28-04-2008",
-      "mass": "8",
-      "launcher": "PSLV-C9"
-    },
-    {
-      "id": "CUBESAT-1",
-      "country": "GERMANY",
-      "launch_date": "23-09-2009",
-      "mass": "1",
-      "launcher": "PSLV-C14"
-    },
-    {
-      "id": "CUBESAT-2",
-      "country": "GERMANY",
-      "launch_date": "23-09-2009",
-      "mass": "1",
-      "launcher": "PSLV-C14"
-    },
-    {
-      "id": "CUBESAT-3",
-      "country": "TURKEY",
-      "launch_date": "23-09-2009",
-      "mass": "1",
-      "launcher": "PSLV-C14"
-    },
-    {
-      "id": "CUBESAT-4",
-      "country": "SWITZERLAND",
-      "launch_date": "23-09-2009",
-      "mass": "1",
-      "launcher": "PSLV-C14"
-    },
-    {
-      "id": "RUBIN-9.1",
-      "country": "GERMANY",
-      "launch_date": "23-09-2009",
-      "mass": "1",
-      "launcher": "PSLV-C14"
-    },
-    {
-      "id": "RUBIN-9.2",
-      "country": "GERMANY",
-      "launch_date": "23-09-2009",
-      "mass": "1",
-      "launcher": "PSLV-C14"
-    },
-    {
-      "id": "ALSAT-2A",
-      "country": "ALGERIA",
-      "launch_date": "12-07-2010",
-      "mass": "116",
-      "launcher": "PSLV-C15"
-    },
-    {
-      "id": "NLS6.1 AISSAT-1",
-      "country": "NORWAY",
-      "launch_date": "12-07-2010",
-      "mass": "6.5",
-      "launcher": "PSLV-C15"
-    },
-    {
-      "id": "NLS6.2 TISAT-1",
-      "country": "SWITZERLAND",
-      "launch_date": "12-07-2010",
-      "mass": "1",
-      "launcher": "PSLV-C15"
-    },
-    {
-      "id": "X-SAT",
-      "country": "SINGAPORE",
-      "launch_date": "20-04-2011",
-      "mass": "106",
-      "launcher": "PSLV-C16"
-    },
-    {
-      "id": "VesselSat-1",
-      "country": "LUXEMBOURG",
-      "launch_date": "12-10-2011",
-      "mass": "28.7",
-      "launcher": "PSLV-C18"
-    },
-    {
-      "id": "SPOT-6",
-      "country": "FRANCE",
-      "launch_date": "09-09-2012",
-      "mass": "712",
-      "launcher": "PSLV-C21"
-    },
-    {
-      "id": "PROITERES",
-      "country": "JAPAN",
-      "launch_date": "09-09-2012",
-      "mass": "15",
-      "launcher": "PSLV-C21"
-    },
-    {
-      "id": "SAPPHIRE",
-      "country": "CANADA",
-      "launch_date": "25-02-2013",
-      "mass": "148",
-      "launcher": "PSLV-C20"
-    },
-    {
-      "id": "SPOT-7",
-      "country": "FRANCE",
-      "launch_date": "30-06-2014",
-      "mass": "714",
-      "launcher": "PSLV-C23"
-    },
-    {
-      "id": "AISAT",
-      "country": "GERMANY",
-      "launch_date": "30-06-2014",
-      "mass": "14",
-      "launcher": "PSLV-C23"
-    },
-    {
-      "id": "NLS7.1(CAN-X4)",
-      "country": "CANADA",
-      "launch_date": "30-06-2014",
-      "mass": "15",
-      "launcher": "PSLV-C23"
-    },
-    {
-      "id": "NLS7.2(CAN-X5)",
-      "country": "CANADA",
-      "launch_date": "30-06-2014",
-      "mass": "15",
-      "launcher": "PSLV-C23"
-    },
-    {
-      "id": "VELOX-1",
-      "country": "SINGAPORE",
-      "launch_date": "30-06-2014",
-      "mass": "7",
-      "launcher": "PSLV-C23"
-    },
-    {
-      "id": "AMAZONIA-1",
-      "country": "BRAZIL",
-      "launch_date": "28-02-2021",
-      "mass": "637",
-      "launcher": "PSLV-C51"
-    },
-    {
-      "id": "DMC3-1",
-      "country": "UK",
-      "launch_date": "10-07-2015",
-      "mass": "447",
-      "launcher": "PSLV-C28"
-    },
-    {
-      "id": "DMC3-2",
-      "country": "UK",
-      "launch_date": "10-07-2015",
-      "mass": "447",
-      "launcher": "PSLV-C28"
-    },
-    {
-      "id": "DMC3-3",
-      "country": "UK",
-      "launch_date": "10-07-2015",
-      "mass": "447",
-      "launcher": "PSLV-C28"
-    },
-    {
-      "id": "CBNT-1",
-      "country": "UK",
-      "launch_date": "10-07-2015",
-      "mass": "91",
-      "launcher": "PSLV-C28"
-    },
-    {
-      "id": "De-OrbitSail",
-      "country": "UK",
-      "launch_date": "10-07-2015",
-      "mass": "7",
-      "launcher": "PSLV-C28"
-    },
-    {
-      "id": "LAPAN-A2",
-      "country": "INDONESIA",
-      "launch_date": "28-09-2015",
-      "mass": "76",
-      "launcher": "PSLV-C30"
-    },
-    {
-      "id": "NLS-14(Ev9)",
-      "country": "CANADA",
-      "launch_date": "28-09-2015",
-      "mass": "14",
-      "launcher": "PSLV-C30"
-    },
-    {
-      "id": "LEMUR-1",
-      "country": "USA",
-      "launch_date": "28-09-2015",
-      "mass": "7",
-      "launcher": "PSLV-C30"
-    },
-    {
-      "id": "LEMUR-2",
-      "country": "USA",
-      "launch_date": "28-09-2015",
-      "mass": "7",
-      "launcher": "PSLV-C30"
-    },
-    {
-      "id": "LEMUR-3",
-      "country": "USA",
-      "launch_date": "28-09-2015",
-      "mass": "7",
-      "launcher": "PSLV-C30"
-    },
-    {
-      "id": "LEMUR-4",
-      "country": "USA",
-      "launch_date": "28-09-2015",
-      "mass": "7",
-      "launcher": "PSLV-C30"
-    },
-    {
-      "id": "TeLEOS",
-      "country": "SINGAPORE",
-      "launch_date": "16-12-2015",
-      "mass": "400",
-      "launcher": "PSLV-C29"
-    },
-    {
-      "id": "Kent Ridge-I",
-      "country": "SINGAPORE",
-      "launch_date": "16-12-2015",
-      "mass": "78",
-      "launcher": "PSLV-C29"
-    },
-    {
-      "id": "VELOX-C1",
-      "country": "SINGAPORE",
-      "launch_date": "16-12-2015",
-      "mass": "123",
-      "launcher": "PSLV-C29"
-    },
-    {
-      "id": "VELOX-II",
-      "country": "SINGAPORE",
-      "launch_date": "16-12-2015",
-      "mass": "13",
-      "launcher": "PSLV-C29"
-    },
-    {
-      "id": "Galassia",
-      "country": "SINGAPORE",
-      "launch_date": "16-12-2015",
-      "mass": "3.4",
-      "launcher": "PSLV-C29"
-    },
-    {
-      "id": "Athenoxat-I",
-      "country": "SINGAPORE",
-      "launch_date": "16-12-2015",
-      "mass": "",
-      "launcher": "PSLV-C29"
-    }
-  ]
+    "customer_satellites": [
+        {
+            "id": "DLR-TUBSAT",
+            "country": "Germany",
+            "launch_date": "26-05-1999",
+            "mass": "45",
+            "launcher": "PSLV-C2"
+        },
+        {
+            "id": "KITSAT-3",
+            "country": "REPUBLIC OF KOREA",
+            "launch_date": "26-05-1999",
+            "mass": "110",
+            "launcher": "PSLV-C2"
+        },
+        {
+            "id": "BIRD",
+            "country": "GERMANY",
+            "launch_date": "22-10-2001",
+            "mass": "92",
+            "launcher": "PSLV-C3"
+        },
+        {
+            "id": "PROBA",
+            "country": "BELGIUM",
+            "launch_date": "22-10-2001",
+            "mass": "94",
+            "launcher": "PSLV-C3"
+        },
+        {
+            "id": "LAPAN-TUBSAT",
+            "country": "INDONESIA",
+            "launch_date": "10-07-2007",
+            "mass": "56",
+            "launcher": "PSLV-C7"
+        },
+        {
+            "id": "PEHUENSAT-1",
+            "country": "ARGENTINA",
+            "launch_date": "10-07-2007",
+            "mass": "6",
+            "launcher": "PSLV-C7"
+        },
+        {
+            "id": "AGILE",
+            "country": "ITALY",
+            "launch_date": "23-04-2007",
+            "mass": "350",
+            "launcher": "PSLV-C8"
+        },
+        {
+            "id": "TESCAR",
+            "country": "ISRAEL",
+            "launch_date": "21-01-2008",
+            "mass": "300",
+            "launcher": "PSLV-C10"
+        },
+        {
+            "id": "CAN-X2",
+            "country": "CANADA",
+            "launch_date": "28-04-2008",
+            "mass": "7",
+            "launcher": "PSLV-C9"
+        },
+        {
+            "id": "CUTE-1.7",
+            "country": "JAPAN",
+            "launch_date": "28-04-2008",
+            "mass": "5",
+            "launcher": "PSLV-C9"
+        },
+        {
+            "id": "DELFI-C3",
+            "country": "THE NETHERLANDS",
+            "launch_date": "28-04-2008",
+            "mass": "6.5",
+            "launcher": "PSLV-C9"
+        },
+        {
+            "id": "AAUSAT-II",
+            "country": "DENMARK",
+            "launch_date": "28-04-2008",
+            "mass": "3",
+            "launcher": "PSLV-C9"
+        },
+        {
+            "id": "COMPASS-I",
+            "country": "GERMANY",
+            "launch_date": "28-04-2008",
+            "mass": "3",
+            "launcher": "PSLV-C9"
+        },
+        {
+            "id": "SEEDS",
+            "country": "JAPAN",
+            "launch_date": "28-04-2008",
+            "mass": "3",
+            "launcher": "PSLV-C9"
+        },
+        {
+            "id": "NLSS",
+            "country": "CANADA",
+            "launch_date": "28-04-2008",
+            "mass": "16",
+            "launcher": "PSLV-C9"
+        },
+        {
+            "id": "RUBIN-8",
+            "country": "GERMANY",
+            "launch_date": "28-04-2008",
+            "mass": "8",
+            "launcher": "PSLV-C9"
+        },
+        {
+            "id": "CUBESAT-1",
+            "country": "GERMANY",
+            "launch_date": "23-09-2009",
+            "mass": "1",
+            "launcher": "PSLV-C14"
+        },
+        {
+            "id": "CUBESAT-2",
+            "country": "GERMANY",
+            "launch_date": "23-09-2009",
+            "mass": "1",
+            "launcher": "PSLV-C14"
+        },
+        {
+            "id": "CUBESAT-3",
+            "country": "TURKEY",
+            "launch_date": "23-09-2009",
+            "mass": "1",
+            "launcher": "PSLV-C14"
+        },
+        {
+            "id": "CUBESAT-4",
+            "country": "SWITZERLAND",
+            "launch_date": "23-09-2009",
+            "mass": "1",
+            "launcher": "PSLV-C14"
+        },
+        {
+            "id": "RUBIN-9.1",
+            "country": "GERMANY",
+            "launch_date": "23-09-2009",
+            "mass": "1",
+            "launcher": "PSLV-C14"
+        },
+        {
+            "id": "RUBIN-9.2",
+            "country": "GERMANY",
+            "launch_date": "23-09-2009",
+            "mass": "1",
+            "launcher": "PSLV-C14"
+        },
+        {
+            "id": "ALSAT-2A",
+            "country": "ALGERIA",
+            "launch_date": "12-07-2010",
+            "mass": "116",
+            "launcher": "PSLV-C15"
+        },
+        {
+            "id": "NLS6.1 AISSAT-1",
+            "country": "NORWAY",
+            "launch_date": "12-07-2010",
+            "mass": "6.5",
+            "launcher": "PSLV-C15"
+        },
+        {
+            "id": "NLS6.2 TISAT-1",
+            "country": "SWITZERLAND",
+            "launch_date": "12-07-2010",
+            "mass": "1",
+            "launcher": "PSLV-C15"
+        },
+        {
+            "id": "X-SAT",
+            "country": "SINGAPORE",
+            "launch_date": "20-04-2011",
+            "mass": "106",
+            "launcher": "PSLV-C16"
+        },
+        {
+            "id": "VesselSat-1",
+            "country": "LUXEMBOURG",
+            "launch_date": "12-10-2011",
+            "mass": "28.7",
+            "launcher": "PSLV-C18"
+        },
+        {
+            "id": "SPOT-6",
+            "country": "FRANCE",
+            "launch_date": "09-09-2012",
+            "mass": "712",
+            "launcher": "PSLV-C21"
+        },
+        {
+            "id": "PROITERES",
+            "country": "JAPAN",
+            "launch_date": "09-09-2012",
+            "mass": "15",
+            "launcher": "PSLV-C21"
+        },
+        {
+            "id": "SAPPHIRE",
+            "country": "CANADA",
+            "launch_date": "25-02-2013",
+            "mass": "148",
+            "launcher": "PSLV-C20"
+        },
+        {
+            "id": "SPOT-7",
+            "country": "FRANCE",
+            "launch_date": "30-06-2014",
+            "mass": "714",
+            "launcher": "PSLV-C23"
+        },
+        {
+            "id": "AISAT",
+            "country": "GERMANY",
+            "launch_date": "30-06-2014",
+            "mass": "14",
+            "launcher": "PSLV-C23"
+        },
+        {
+            "id": "NLS7.1(CAN-X4)",
+            "country": "CANADA",
+            "launch_date": "30-06-2014",
+            "mass": "15",
+            "launcher": "PSLV-C23"
+        },
+        {
+            "id": "NLS7.2(CAN-X5)",
+            "country": "CANADA",
+            "launch_date": "30-06-2014",
+            "mass": "15",
+            "launcher": "PSLV-C23"
+        },
+        {
+            "id": "VELOX-1",
+            "country": "SINGAPORE",
+            "launch_date": "30-06-2014",
+            "mass": "7",
+            "launcher": "PSLV-C23"
+        },
+        {
+            "id": "AMAZONIA-1",
+            "country": "BRAZIL",
+            "launch_date": "28-02-2021",
+            "mass": "637",
+            "launcher": "PSLV-C51"
+        },
+        {
+            "id": "DMC3-1",
+            "country": "UK",
+            "launch_date": "10-07-2015",
+            "mass": "447",
+            "launcher": "PSLV-C28"
+        },
+        {
+            "id": "DMC3-2",
+            "country": "UK",
+            "launch_date": "10-07-2015",
+            "mass": "447",
+            "launcher": "PSLV-C28"
+        },
+        {
+            "id": "DMC3-3",
+            "country": "UK",
+            "launch_date": "10-07-2015",
+            "mass": "447",
+            "launcher": "PSLV-C28"
+        },
+        {
+            "id": "CBNT-1",
+            "country": "UK",
+            "launch_date": "10-07-2015",
+            "mass": "91",
+            "launcher": "PSLV-C28"
+        },
+        {
+            "id": "De-OrbitSail",
+            "country": "UK",
+            "launch_date": "10-07-2015",
+            "mass": "7",
+            "launcher": "PSLV-C28"
+        },
+        {
+            "id": "LAPAN-A2",
+            "country": "INDONESIA",
+            "launch_date": "28-09-2015",
+            "mass": "76",
+            "launcher": "PSLV-C30"
+        },
+        {
+            "id": "NLS-14(Ev9)",
+            "country": "CANADA",
+            "launch_date": "28-09-2015",
+            "mass": "14",
+            "launcher": "PSLV-C30"
+        },
+        {
+            "id": "LEMUR-1",
+            "country": "USA",
+            "launch_date": "28-09-2015",
+            "mass": "7",
+            "launcher": "PSLV-C30"
+        },
+        {
+            "id": "LEMUR-2",
+            "country": "USA",
+            "launch_date": "28-09-2015",
+            "mass": "7",
+            "launcher": "PSLV-C30"
+        },
+        {
+            "id": "LEMUR-3",
+            "country": "USA",
+            "launch_date": "28-09-2015",
+            "mass": "7",
+            "launcher": "PSLV-C30"
+        },
+        {
+            "id": "LEMUR-4",
+            "country": "USA",
+            "launch_date": "28-09-2015",
+            "mass": "7",
+            "launcher": "PSLV-C30"
+        },
+        {
+            "id": "TeLEOS",
+            "country": "SINGAPORE",
+            "launch_date": "16-12-2015",
+            "mass": "400",
+            "launcher": "PSLV-C29"
+        },
+        {
+            "id": "Kent Ridge-I",
+            "country": "SINGAPORE",
+            "launch_date": "16-12-2015",
+            "mass": "78",
+            "launcher": "PSLV-C29"
+        },
+        {
+            "id": "VELOX-C1",
+            "country": "SINGAPORE",
+            "launch_date": "16-12-2015",
+            "mass": "123",
+            "launcher": "PSLV-C29"
+        },
+        {
+            "id": "VELOX-II",
+            "country": "SINGAPORE",
+            "launch_date": "16-12-2015",
+            "mass": "13",
+            "launcher": "PSLV-C29"
+        },
+        {
+            "id": "Galassia",
+            "country": "SINGAPORE",
+            "launch_date": "16-12-2015",
+            "mass": "3.4",
+            "launcher": "PSLV-C29"
+        },
+        {
+            "id": "Athenoxat-I",
+            "country": "SINGAPORE",
+            "launch_date": "16-12-2015",
+            "mass": "",
+            "launcher": "PSLV-C29"
+        }
+    ]
 }
