@@ -1,10 +1,18 @@
-# ISRO 🚀 API
+# ISRO Open Source API for Launched Spacecrafts & Rockets Data
 
-Open Source API for Launched Spacecrafts & Rockets data of ISRO
+Welcome to the ISRO Open Source API for Launched Spacecrafts & Rockets Data! This API provides access to data about ISRO spacecrafts, launchers, customer satellites, and centres.
 
-## API End-Points
+## Getting Started
 
-- Spacecrafts: [/api/spacecrafts](https://isro.vercel.app/api/spacecrafts)
-- Launchers: [/api/launchers](https://isro.vercel.app/api/launchers)
-- Customer Satellites: [/api/customer_satellites](https://isro.vercel.app/api/customer_satellites)
-- Centres: [/api/centres](https://isro.vercel.app/api/centres)
+To get started with the API, you'll need to request an API key by emailing us at [insert email address here]. Once you receive your API key, you can start making requests to the API.
+
+## Endpoints
+
+The API provides the following endpoints:
+
+### Spacecrafts
+
+The `/api/spacecrafts` endpoint returns data about ISRO spacecrafts. The data includes the name of the spacecraft, the type of spacecraft, the launch date, and the mission details.
+
+Example Request:
+
