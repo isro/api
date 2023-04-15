@@ -2,10 +2,6 @@
 
 Welcome to the ISRO Open Source API for Launched Spacecrafts & Rockets Data! This API provides access to data about ISRO spacecrafts, launchers, customer satellites, and centres.
 
-## Getting Started
-
-To get started with the API, you'll need to request an API key by emailing us at [insert email address here]. Once you receive your API key, you can start making requests to the API.
-
 ## Endpoints
 
 The API provides the following endpoints:
