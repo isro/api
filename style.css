@@ -3,7 +3,6 @@
 }
 
 .content {
-    max-width: 650px;
     color: #242424;
     font-family:
         "-apple-system",
@@ -17,12 +16,13 @@
         "Helvetica Neue",
         "sans-serif"
     ;
+    max-width: 650px;
 }
 
 h1, h2, h3 {
+    border-bottom: 1px solid #eaecef;
     font-weight: 600;
     padding-bottom: 0.3em;
-    border-bottom: 1px solid #eaecef;
 }
 
 li {
@@ -30,6 +30,6 @@ li {
 }
 
 a {
-    text-decoration: none;
     color: rgb(67, 124, 230);
+    text-decoration: none;
 }
