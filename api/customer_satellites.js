@@ -1,5 +1,5 @@
 const fs = require("fs");
-const {formatDate, formatToDateFormat} = require("./date_convertor")
+const formatDate = require("./date_convertor")
 let launchers = require("../data/customer_satellites.json");
 
 module.exports = async (req, res) => {
