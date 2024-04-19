@@ -1,4 +1,4 @@
-const extractMYD = (currentDate) => {
+const extractMYD = (currentDate, formatOnly=true) => {
     try {
         if (!currentDate || typeof currentDate !== 'string') {
             throw new Error('Invalid date format');
@@ -6,6 +6,9 @@ const extractMYD = (currentDate) => {
         const [day, month, year] = currentDate.split('-');
         if (!day || !month || !year) {
             throw new Error('Invalid date format');
+        }
+        if(formatOnly){
+            return `${year}-${month}-${day}`
         }
         const parsedDate = new Date(`${year}-${month}-${day}`);
         if (isNaN(parsedDate.getTime())) {
@@ -23,7 +26,7 @@ const extractMYD = (currentDate) => {
 
 const extractFormat = (format, currentDate) => {
     try{
-    const [year, month, day] = extractMYD(currentDate);
+    const [year, month, day] = extractMYD(currentDate, false);
     switch (format) {
         case 'YYYY/MM/DD':
             return `${year}/${month}/${day}`;
@@ -103,11 +106,21 @@ const extractFormat = (format, currentDate) => {
     }
 }
 
-const formatDate = (format, records) => {
+const formatToDateFormat = (format, records) => {
     return records.map(record => {
         record.launch_date = extractFormat(format, record.launch_date);
         return record;
     });
 }
 
-module.exports = formatDate;
+const formatDate = (records) => {
+    return records.map(record => {
+        record.launch_date = extractMYD(record.launch_date);
+        return record;
+    });
+}
+
+module.exports = {
+    formatDate,
+    formatToDateFormat
+}
