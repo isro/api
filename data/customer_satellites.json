@@ -1,6 +1,5 @@
 {
-    "customer_satellites": [
-        {
+    "customer_satellites": [{
             "id": "DLR-TUBSAT",
             "country": "Germany",
             "launch_date": "26-05-1999",
@@ -211,6 +210,41 @@
             "launcher": "PSLV-C20"
         },
         {
+            "id": "NEOSSAT",
+            "country": "CANADA",
+            "launch_date": "25-02-2013",
+            "mass": "74",
+            "launcher": "PSLV-C20"
+        },
+        {
+            "id": "NLS8.1",
+            "country": "AUSTRIA",
+            "launch_date": "25-02-2013",
+            "mass": "14",
+            "launcher": "PSLV-C20"
+        },
+        {
+            "id": "NLS8.2",
+            "country": "AUSTRIA",
+            "launch_date": "25-02-2013",
+            "mass": "14",
+            "launcher": "PSLV-C20"
+        },
+        {
+            "id": "NLS8.3",
+            "country": "DENMARK",
+            "launch_date": "25-02-2013",
+            "mass": "3",
+            "launcher": "PSLV-C20"
+        },
+        {
+            "id": "STRAND-1",
+            "country": "UNITED KINGDOM",
+            "launch_date": "25-02-2013",
+            "mass": "6.5",
+            "launcher": "PSLV-C20"
+        },
+        {
             "id": "SPOT-7",
             "country": "FRANCE",
             "launch_date": "30-06-2014",
@@ -370,6 +404,125 @@
             "launch_date": "16-12-2015",
             "mass": "",
             "launcher": "PSLV-C29"
+        },
+        {
+            "id": "LAPAN-A3",
+            "country": "INDONESIA",
+            "launch_date": "22-06-2016",
+            "mass": "120",
+            "launcher": "PSLV-C34"
+        },
+        {
+            "id": "BIROS",
+            "country": "GERMANY",
+            "launch_date": "22-06-2016",
+            "mass": "130",
+            "launcher": "PSLV-C34"
+        },
+        {
+            "id": "M3MSat",
+            "country": "CANADA",
+            "launch_date": "22-06-2016",
+            "mass": "85",
+            "launcher": "PSLV-C34"
+        },
+        {
+            "id": "SkySat Gen2-1",
+            "country": "USA",
+            "launch_date": "22-06-2016",
+            "mass": "110",
+            "launcher": "PSLV-C34"
+        },
+        {
+            "id": "GHGSat-D",
+            "country": "CANADA",
+            "launch_date": "22-06-2016",
+            "mass": "25.5",
+            "launcher": "PSLV-C34"
+        },
+        {
+            "id": "DOVE QP1.1",
+            "country": "USA",
+            "launch_date": "22-06-2016",
+            "mass": "4.7",
+            "launcher": "PSLV-C34"
+        },
+        {
+            "id": "DOVE QP1.2",
+            "country": "USA",
+            "launch_date": "22-06-2016",
+            "mass": "4.7",
+            "launcher": "PSLV-C34"
+        },
+        {
+            "id": "DOVE QP1.3",
+            "country": "USA",
+            "launch_date": "22-06-2016",
+            "mass": "4.7",
+            "launcher": "PSLV-C34"
+        },
+        {
+            "id": "DOVE QP1.4",
+            "country": "USA",
+            "launch_date": "22-06-2016",
+            "mass": "4.7",
+            "launcher": "PSLV-C34"
+        },
+        {
+            "id": "DOVE QP2.1",
+            "country": "USA",
+            "launch_date": "22-06-2016",
+            "mass": "4.7",
+            "launcher": "PSLV-C34"
+        },
+        {
+            "id": "DOVE QP2.2",
+            "country": "USA",
+            "launch_date": "22-06-2016",
+            "mass": "4.7",
+            "launcher": "PSLV-C34"
+        },
+        {
+            "id": "DOVE QP2.3",
+            "country": "USA",
+            "launch_date": "22-06-2016",
+            "mass": "4.7",
+            "launcher": "PSLV-C34"
+        },
+        {
+            "id": "DOVE QP2.4",
+            "country": "USA",
+            "launch_date": "22-06-2016",
+            "mass": "4.7",
+            "launcher": "PSLV-C34"
+        },
+        {
+            "id": "DOVE QP3.1",
+            "country": "USA",
+            "launch_date": "22-06-2016",
+            "mass": "4.7",
+            "launcher": "PSLV-C34"
+        },
+        {
+            "id": "DOVE QP3.2",
+            "country": "USA",
+            "launch_date": "22-06-2016",
+            "mass": "4.7",
+            "launcher": "PSLV-C34"
+        },
+        {
+            "id": "DOVE QP3.3",
+            "country": "USA",
+            "launch_date": "22-06-2016",
+            "mass": "4.7",
+            "launcher": "PSLV-C34"
+        },
+        {
+            "id": "DOVE QP3.4",
+            "country": "USA",
+            "launch_date": "22-06-2016",
+            "mass": "4.7",
+            "launcher": "PSLV-C34"
         }
     ]
 }
