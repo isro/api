@@ -1,456 +1,1134 @@
 {
-    "spacecrafts": [
-        {
-            "id": 1,
-            "name": "Aryabhata"
-        },
-        {
-            "id": 2,
-            "name": "Bhaskara-I"
-        },
-        {
-            "id": 3,
-            "name": "Rohini Technology Payload (RTP)"
-        },
-        {
-            "id": 4,
-            "name": "Rohini Satellite RS-1"
-        },
-        {
-            "id": 5,
-            "name": "Rohini Satellite RS-D1"
-        },
-        {
-            "id": 6,
-            "name": "APPLE"
-        },
-        {
-            "id": 7,
-            "name": "Bhaskara-II"
-        },
-        {
-            "id": 8,
-            "name": "INSAT-1A"
-        },
-        {
-            "id": 9,
-            "name": "Rohini Satellite RS-D2"
-        },
-        {
-            "id": 10,
-            "name": "INSAT-1B"
-        },
-        {
-            "id": 11,
-            "name": "SROSS-1"
-        },
-        {
-            "id": 12,
-            "name": "IRS-1A"
-        },
-        {
-            "id": 13,
-            "name": "SROSS-2"
-        },
-        {
-            "id": 14,
-            "name": "INSAT-1C"
-        },
-        {
-            "id": 15,
-            "name": "INSAT-1D"
-        },
-        {
-            "id": 16,
-            "name": "IRS-1B"
-        },
-        {
-            "id": 17,
-            "name": "SROSS-C"
-        },
-        {
-            "id": 18,
-            "name": "INSAT-2A"
-        },
-        {
-            "id": 19,
-            "name": "INSAT-2B"
-        },
-        {
-            "id": 20,
-            "name": "IRS-1E"
-        },
-        {
-            "id": 21,
-            "name": "SROSS-C2"
-        },
-        {
-            "id": 22,
-            "name": "IRS-P2"
-        },
-        {
-            "id": 23,
-            "name": "INSAT-2C"
-        },
-        {
-            "id": 24,
-            "name": "IRS-1C"
-        },
-        {
-            "id": 25,
-            "name": "IRS-P3"
-        },
-        {
-            "id": 26,
-            "name": "INSAT-2D"
-        },
-        {
-            "id": 27,
-            "name": "IRS-1D"
-        },
-        {
-            "id": 28,
-            "name": "INSAT-2E"
-        },
-        {
-            "id": 29,
-            "name": "Oceansat(IRS-P4)"
-        },
-        {
-            "id": 30,
-            "name": "INSAT-3B"
-        },
-        {
-            "id": 31,
-            "name": "GSAT-1"
-        },
-        {
-            "id": 32,
-            "name": "The Technology Experiment Satellite (TES)"
-        },
-        {
-            "id": 33,
-            "name": "INSAT-3C"
-        },
-        {
-            "id": 34,
-            "name": "KALPANA-1"
-        },
-        {
-            "id": 35,
-            "name": "INSAT-3A"
-        },
-        {
-            "id": 36,
-            "name": "GSAT-2"
-        },
-        {
-            "id": 37,
-            "name": "INSAT-3E"
-        },
-        {
-            "id": 38,
-            "name": "IRS-P6 / RESOURCESAT-1"
-        },
-        {
-            "id": 39,
-            "name": "EDUSAT"
-        },
-        {
-            "id": 40,
-            "name": "HAMSAT"
-        },
-        {
-            "id": 41,
-            "name": "CARTOSAT-1"
-        },
-        {
-            "id": 42,
-            "name": "INSAT-4A"
-        },
-        {
-            "id": 43,
-            "name": "INSAT-4C"
-        },
-        {
-            "id": 44,
-            "name": "SRE-1"
-        },
-        {
-            "id": 45,
-            "name": "CARTOSAT-2"
-        },
-        {
-            "id": 46,
-            "name": "INSAT-4B"
-        },
-        {
-            "id": 47,
-            "name": "INSAT-4CR"
-        },
-        {
-            "id": 48,
-            "name": "CARTOSAT – 2A"
-        },
-        {
-            "id": 49,
-            "name": "IMS-1"
-        },
-        {
-            "id": 50,
-            "name": "Chandrayaan-1"
-        },
-        {
-            "id": 51,
-            "name": "RISAT-2"
-        },
-        {
-            "id": 52,
-            "name": "Oceansat-2"
-        },
-        {
-            "id": 53,
-            "name": "GSAT-4"
-        },
-        {
-            "id": 54,
-            "name": "CARTOSAT-2B"
-        },
-        {
-            "id": 55,
-            "name": "GSAT-5P"
-        },
-        {
-            "id": 56,
-            "name": "YOUTHSAT"
-        },
-        {
-            "id": 57,
-            "name": "RESOURCESAT-2"
-        },
-        {
-            "id": 58,
-            "name": "GSAT-8"
-        },
-        {
-            "id": 59,
-            "name": "GSAT-12"
-        },
-        {
-            "id": 60,
-            "name": "Megha-Tropiques"
-        },
-        {
-            "id": 61,
-            "name": "RISAT-1"
-        },
-        {
-            "id": 62,
-            "name": "GSAT-10"
-        },
-        {
-            "id": 63,
-            "name": "SARAL"
-        },
-        {
-            "id": 64,
-            "name": "IRNSS-1A"
-        },
-        {
-            "id": 65,
-            "name": "INSAT-3D"
-        },
-        {
-            "id": 66,
-            "name": "GSAT-7"
-        },
-        {
-            "id": 67,
-            "name": "Mars Orbiter Mission Spacecraft"
-        },
-        {
-            "id": 68,
-            "name": "GSAT-14"
-        },
-        {
-            "id": 69,
-            "name": "IRNSS-1B"
-        },
-        {
-            "id": 70,
-            "name": "IRNSS-1C"
-        },
-        {
-            "id": 71,
-            "name": "GSAT-16"
-        },
-        {
-            "id": 72,
-            "name": "Crew module Atmospheric Re-entry Experiment (CARE)"
-        },
-        {
-            "id": 73,
-            "name": "IRNSS-1D"
-        },
-        {
-            "id": 74,
-            "name": "GSAT-6"
-        },
-        {
-            "id": 75,
-            "name": "Astrosat"
-        },
-        {
-            "id": 76,
-            "name": "GSAT-15"
-        },
-        {
-            "id": 77,
-            "name": "IRNSS-1E"
-        },
-        {
-            "id": 78,
-            "name": "IRNSS-1F"
-        },
-        {
-            "id": 79,
-            "name": "IRNSS-1G"
-        },
-        {
-            "id": 80,
-            "name": "CARTOSAT-2 Series Satellite"
-        },
-        {
-            "id": 81,
-            "name": "INSAT-3DR"
-        },
-        {
-            "id": 82,
-            "name": "SCATSAT-1"
-        },
-        {
-            "id": 83,
-            "name": "GSAT-18"
-        },
-        {
-            "id": 84,
-            "name": "RESOURCESAT-2A"
-        },
-        {
-            "id": 85,
-            "name": "INS-1B"
-        },
-        {
-            "id": 86,
-            "name": "INS-1A"
-        },
-        {
-            "id": 87,
-            "name": "Cartosat -2 Series Satellite"
-        },
-        {
-            "id": 88,
-            "name": "GSAT-9"
-        },
-        {
-            "id": 89,
-            "name": "GSAT-19"
-        },
-        {
-            "id": 90,
-            "name": "Cartosat-2 Series Satellite"
-        },
-        {
-            "id": 91,
-            "name": "GSAT-17"
-        },
-        {
-            "id": 92,
-            "name": "IRNSS-1H"
-        },
-        {
-            "id": 93,
-            "name": "INS-1C"
-        },
-        {
-            "id": 94,
-            "name": "Cartosat-2 Series Satellite"
-        },
-        {
-            "id": 95,
-            "name": "Microsat"
-        },
-        {
-            "id": 96,
-            "name": "GSAT-6A"
-        },
-        {
-            "id": 97,
-            "name": "IRNSS-1I"
-        },
-        {
-            "id": 98,
-            "name": "GSAT-29"
-        },
-        {
-            "id": 99,
-            "name": "HysIS"
-        },
-        {
-            "id": 100,
-            "name": "GSAT-11 Mission"
-        },
-        {
-            "id": 101,
-            "name": "GSAT-7A"
-        },
-        {
-            "id": 102,
-            "name": "Microsat-R"
-        },
-        {
-            "id": 103,
-            "name": "GSAT-31"
-        },
-        {
-            "id": 104,
-            "name": "EMISAT"
-        },
-        {
-            "id": 105,
-            "name": "RISAT-2B"
-        },
-        {
-            "id": 106,
-            "name": "Chandrayaan2"
-        },
-        {
-            "id": 107,
-            "name": "Cartosat-3"
-        },
-        {
-            "id": 108,
-            "name": "RISAT-2BR1"
-        },
-        {
-            "id": 109,
-            "name": "GSAT-30"
-        },
-        {
-            "id": 110,
-            "name": "EOS-01"
-        },
-        {
-            "id": 111,
-            "name": "CMS-01"
-        },
-        {
-            "id": 112,
-            "name": "EOS-03"
-        },
-        {
-            "id": 113,
-            "name": "Chandrayaan3"
-        }
-    ]
+  "spacecrafts": [
+    {
+      "id": 1,
+      "name": "Aryabhata",
+      "launch_date": "1975-04-19",
+      "launch_vehicle": "C-1 Intercosmos",
+      "mission_type": "Scientific/ Experimental",
+      "orbit_type": null,
+      "mass_kg": 360.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 2,
+      "name": "Bhaskara-I",
+      "launch_date": "1979-06-07",
+      "launch_vehicle": "C-1Intercosmos",
+      "mission_type": "Experimental Remote Sensing",
+      "orbit_type": null,
+      "mass_kg": 442.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 3,
+      "name": "Rohini Technology Payload (RTP)",
+      "launch_date": "1979-08-10",
+      "launch_vehicle": "SLV-3",
+      "mission_type": "Experimental",
+      "orbit_type": "Failed",
+      "mass_kg": 35.0,
+      "status": "failed"
+    },
+    {
+      "id": 4,
+      "name": "Rohini Satellite RS-1",
+      "launch_date": "1980-07-18",
+      "launch_vehicle": "SLV-3",
+      "mission_type": "Experimental",
+      "orbit_type": null,
+      "mass_kg": 35.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 5,
+      "name": "Rohini Satellite RS-D1",
+      "launch_date": "1981-05-31",
+      "launch_vehicle": "SLV-3",
+      "mission_type": "Experimental",
+      "orbit_type": null,
+      "mass_kg": 38.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 6,
+      "name": "APPLE",
+      "launch_date": "1981-06-19",
+      "launch_vehicle": "Ariane -1(V-3)",
+      "mission_type": "Experimental geostationary communication",
+      "orbit_type": "GEO",
+      "mass_kg": 670.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 7,
+      "name": "Bhaskara-II",
+      "launch_date": "1981-11-20",
+      "launch_vehicle": "C-1 Intercosmos",
+      "mission_type": "Experimental Remote Sensing",
+      "orbit_type": null,
+      "mass_kg": 444.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 8,
+      "name": "INSAT-1A",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 9,
+      "name": "Rohini Satellite RS-D2",
+      "launch_date": "1983-04-17",
+      "launch_vehicle": "SLV-3",
+      "mission_type": "Experimental",
+      "orbit_type": null,
+      "mass_kg": 41.5,
+      "status": "decommissioned"
+    },
+    {
+      "id": 10,
+      "name": "INSAT-1B",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 11,
+      "name": "SROSS-1",
+      "launch_date": "1987-03-24",
+      "launch_vehicle": "Augmented Satellite Launch Vehicle (ASLV)",
+      "mission_type": "Experimental",
+      "orbit_type": null,
+      "mass_kg": 150.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 12,
+      "name": "IRS-1A",
+      "launch_date": "1988-03-17",
+      "launch_vehicle": "Vostok",
+      "mission_type": "Operational Remote Sensing",
+      "orbit_type": "SSO",
+      "mass_kg": 975.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 13,
+      "name": "SROSS-2",
+      "launch_date": "1988-07-13",
+      "launch_vehicle": "Augmented Satellite Launch Vehicle (ASLV)",
+      "mission_type": "Experimental",
+      "orbit_type": "Failed",
+      "mass_kg": 150.0,
+      "status": "failed"
+    },
+    {
+      "id": 14,
+      "name": "INSAT-1C",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 15,
+      "name": "INSAT-1D",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 16,
+      "name": "IRS-1B",
+      "launch_date": "1991-08-29",
+      "launch_vehicle": "Vostok",
+      "mission_type": "Operational Remote Sensing",
+      "orbit_type": "SSO",
+      "mass_kg": 975.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 17,
+      "name": "SROSS-C",
+      "launch_date": "1992-05-20",
+      "launch_vehicle": "Augmented Satellite Launch Vehicle (ASLV)",
+      "mission_type": "Experimental",
+      "orbit_type": null,
+      "mass_kg": 106.1,
+      "status": "decommissioned"
+    },
+    {
+      "id": 18,
+      "name": "INSAT-2A",
+      "launch_date": "1992-07-10",
+      "launch_vehicle": "Ariane 4",
+      "mission_type": "Multipurpose Communication, meteorology and                                                             Satellite based search and rescue",
+      "orbit_type": "GEO",
+      "mass_kg": 1906.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 19,
+      "name": "INSAT-2B",
+      "launch_date": "1993-07-23",
+      "launch_vehicle": "Ariane 4",
+      "mission_type": "Multipurpose Communication, meteorology and                                                             Satellite based search and rescue",
+      "orbit_type": "GEO",
+      "mass_kg": 1906.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 20,
+      "name": "IRS-1E",
+      "launch_date": "1993-09-20",
+      "launch_vehicle": "PSLV-D1",
+      "mission_type": "Operational Remote Sensing",
+      "orbit_type": "Failed",
+      "mass_kg": 846.0,
+      "status": "failed"
+    },
+    {
+      "id": 21,
+      "name": "SROSS-C2",
+      "launch_date": "1994-05-04",
+      "launch_vehicle": "Augmented Satellite Launch Vehicle (ASLV)",
+      "mission_type": "Experimental",
+      "orbit_type": null,
+      "mass_kg": 115.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 22,
+      "name": "IRS-P2",
+      "launch_date": "1994-10-15",
+      "launch_vehicle": "PSLV-D2",
+      "mission_type": "Operational Remote Sensing",
+      "orbit_type": null,
+      "mass_kg": 804.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 23,
+      "name": "INSAT-2C",
+      "launch_date": "1995-12-07",
+      "launch_vehicle": "Ariane4",
+      "mission_type": "Communication",
+      "orbit_type": "GEO",
+      "mass_kg": 2106.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 24,
+      "name": "IRS-1C",
+      "launch_date": "1995-12-28",
+      "launch_vehicle": "Molniya",
+      "mission_type": "Operational Remote Sensing",
+      "orbit_type": "SSO",
+      "mass_kg": 1250.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 25,
+      "name": "IRS-P3",
+      "launch_date": "1996-03-21",
+      "launch_vehicle": "PSLV-D3",
+      "mission_type": "Remote sensing of earth's natural resources. Study of X-ray                                                             Astronomy. Periodic calibration of PSLV tracking radar                                                             located at tracking stations.",
+      "orbit_type": "SSO",
+      "mass_kg": 920.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 26,
+      "name": "INSAT-2D",
+      "launch_date": "1997-06-04",
+      "launch_vehicle": "Arianev 4",
+      "mission_type": "Communication",
+      "orbit_type": "GEO",
+      "mass_kg": 2079.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 27,
+      "name": "IRS-1D",
+      "launch_date": "1995-12-28",
+      "launch_vehicle": "Molniya",
+      "mission_type": "Operational Remote Sensing",
+      "orbit_type": "SSO",
+      "mass_kg": 1250.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 28,
+      "name": "INSAT-2E",
+      "launch_date": "1999-04-03",
+      "launch_vehicle": "Ariane – 42P",
+      "mission_type": "Communication and Meteorology",
+      "orbit_type": "GEO",
+      "mass_kg": 2550.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 29,
+      "name": "Oceansat(IRS-P4)",
+      "launch_date": "1999-05-26",
+      "launch_vehicle": "PSLV - C2",
+      "mission_type": null,
+      "orbit_type": "SSO",
+      "mass_kg": 1050.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 30,
+      "name": "INSAT-3B",
+      "launch_date": "2000-03-22",
+      "launch_vehicle": "Ariane -5",
+      "mission_type": null,
+      "orbit_type": "GEO",
+      "mass_kg": 2070.0,
+      "status": "unknown"
+    },
+    {
+      "id": 31,
+      "name": "GSAT-1",
+      "launch_date": "2001-04-18",
+      "launch_vehicle": "GSLV – D1",
+      "mission_type": "Communication",
+      "orbit_type": "GEO",
+      "mass_kg": 1530.0,
+      "status": "unknown"
+    },
+    {
+      "id": 32,
+      "name": "The Technology Experiment Satellite (TES)",
+      "launch_date": "2001-10-22",
+      "launch_vehicle": "PSLV- C3",
+      "mission_type": null,
+      "orbit_type": "SSO",
+      "mass_kg": null,
+      "status": "unknown"
+    },
+    {
+      "id": 33,
+      "name": "INSAT-3C",
+      "launch_date": "2002-01-24",
+      "launch_vehicle": "Ariane5-V147",
+      "mission_type": "Communication, broadcasting and Meteorology",
+      "orbit_type": "GEO",
+      "mass_kg": 2650.0,
+      "status": "unknown"
+    },
+    {
+      "id": 34,
+      "name": "KALPANA-1",
+      "launch_date": "2002-09-12",
+      "launch_vehicle": "PSLV – C4",
+      "mission_type": null,
+      "orbit_type": "GEO",
+      "mass_kg": 1060.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 35,
+      "name": "INSAT-3A",
+      "launch_date": "2003-04-10",
+      "launch_vehicle": "Ariane5-V160",
+      "mission_type": "Telecommunication, broadcasting and Meteorology",
+      "orbit_type": "GEO",
+      "mass_kg": 2950.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 36,
+      "name": "GSAT-2",
+      "launch_date": "2003-05-08",
+      "launch_vehicle": "GSLV–D2",
+      "mission_type": "Communication",
+      "orbit_type": "GEO",
+      "mass_kg": 1800.0,
+      "status": "unknown"
+    },
+    {
+      "id": 37,
+      "name": "INSAT-3E",
+      "launch_date": "2003-09-28",
+      "launch_vehicle": "Ariane5-V162",
+      "mission_type": "Communication",
+      "orbit_type": "GEO",
+      "mass_kg": 2775.0,
+      "status": "unknown"
+    },
+    {
+      "id": 38,
+      "name": "IRS-P6 / RESOURCESAT-1",
+      "launch_date": "2003-10-17",
+      "launch_vehicle": "PSLV-C5",
+      "mission_type": null,
+      "orbit_type": "SSO",
+      "mass_kg": 1360.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 39,
+      "name": "EDUSAT",
+      "launch_date": "2004-09-20",
+      "launch_vehicle": "GSLV-F01",
+      "mission_type": "Education",
+      "orbit_type": "GEO",
+      "mass_kg": 1950.5,
+      "status": "decommissioned"
+    },
+    {
+      "id": 40,
+      "name": "HAMSAT",
+      "launch_date": "2005-05-05",
+      "launch_vehicle": "PSLV-C6",
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": "unknown"
+    },
+    {
+      "id": 41,
+      "name": "CARTOSAT-1",
+      "launch_date": "2005-05-05",
+      "launch_vehicle": "PSLV- C6",
+      "mission_type": null,
+      "orbit_type": "SSO",
+      "mass_kg": 1560.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 42,
+      "name": "INSAT-4A",
+      "launch_date": "2005-12-22",
+      "launch_vehicle": "ARIANE5-V169",
+      "mission_type": null,
+      "orbit_type": "GEO",
+      "mass_kg": 3081.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 43,
+      "name": "INSAT-4C",
+      "launch_date": "2007-09-02",
+      "launch_vehicle": "GSLV-F04",
+      "mission_type": "Communication",
+      "orbit_type": "GEO",
+      "mass_kg": 2130.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 44,
+      "name": "SRE-1",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 45,
+      "name": "CARTOSAT-2",
+      "launch_date": "2007-01-10",
+      "launch_vehicle": "PSLV- C7",
+      "mission_type": "Remote Sensing",
+      "orbit_type": "SSO",
+      "mass_kg": 650.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 46,
+      "name": "INSAT-4B",
+      "launch_date": "2007-03-12",
+      "launch_vehicle": "Ariane5",
+      "mission_type": "Communication",
+      "orbit_type": "GEO",
+      "mass_kg": 3025.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 47,
+      "name": "INSAT-4CR",
+      "launch_date": "2007-09-02",
+      "launch_vehicle": "GSLV-F04",
+      "mission_type": "Communication",
+      "orbit_type": "GEO",
+      "mass_kg": 2130.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 48,
+      "name": "CARTOSAT-2A",
+      "launch_date": "2008-04-28",
+      "launch_vehicle": "PSLV- C9",
+      "mission_type": "Remote Sensing",
+      "orbit_type": "SSO",
+      "mass_kg": 690.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 49,
+      "name": "IMS-1",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": "SSO",
+      "mass_kg": 83.0,
+      "status": "unknown"
+    },
+    {
+      "id": 50,
+      "name": "Chandrayaan-1",
+      "launch_date": "2008-10-22",
+      "launch_vehicle": "PSLV - C11",
+      "mission_type": "Remote Sensing, Planetary Science",
+      "orbit_type": "Lunar",
+      "mass_kg": 1380.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 51,
+      "name": "RISAT-2",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": "LEO",
+      "mass_kg": 300.0,
+      "status": "unknown"
+    },
+    {
+      "id": 52,
+      "name": "Oceansat-2",
+      "launch_date": "2009-09-23",
+      "launch_vehicle": "PSLV - C14",
+      "mission_type": null,
+      "orbit_type": "SSO",
+      "mass_kg": 960.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 53,
+      "name": "GSAT-4",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 54,
+      "name": "CARTOSAT-2B",
+      "launch_date": "2010-07-12",
+      "launch_vehicle": "PSLV- C15",
+      "mission_type": "Remote Sensing",
+      "orbit_type": "SSO",
+      "mass_kg": 694.0,
+      "status": "unknown"
+    },
+    {
+      "id": 55,
+      "name": "GSAT-5P",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 56,
+      "name": "YOUTHSAT",
+      "launch_date": "2011-04-20",
+      "launch_vehicle": "PSLV- C16",
+      "mission_type": null,
+      "orbit_type": "SSO",
+      "mass_kg": 92.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 57,
+      "name": "RESOURCESAT-2",
+      "launch_date": "2011-04-20",
+      "launch_vehicle": "PSLV- C16",
+      "mission_type": "Remote Sensing",
+      "orbit_type": "SSO",
+      "mass_kg": 1206.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 58,
+      "name": "GSAT-8",
+      "launch_date": "2011-05-21",
+      "launch_vehicle": "Ariane-5 VA-202",
+      "mission_type": "Communication",
+      "orbit_type": "GEO",
+      "mass_kg": 3093.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 59,
+      "name": "GSAT-12",
+      "launch_date": "2011-07-15",
+      "launch_vehicle": "PSLV-C17",
+      "mission_type": "Communication",
+      "orbit_type": "GEO",
+      "mass_kg": 1410.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 60,
+      "name": "Megha-Tropiques",
+      "launch_date": "2011-10-12",
+      "launch_vehicle": "PSLV- C18",
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": 1000.0,
+      "status": "unknown"
+    },
+    {
+      "id": 61,
+      "name": "RISAT-1",
+      "launch_date": "2012-04-26",
+      "launch_vehicle": "PSLV- C19",
+      "mission_type": null,
+      "orbit_type": "SSO",
+      "mass_kg": 1858.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 62,
+      "name": "GSAT-10",
+      "launch_date": "2012-09-29",
+      "launch_vehicle": "Ariane-5 VA-209",
+      "mission_type": "Communication",
+      "orbit_type": "GEO",
+      "mass_kg": 3400.0,
+      "status": "active"
+    },
+    {
+      "id": 63,
+      "name": "SARAL",
+      "launch_date": "2013-02-25",
+      "launch_vehicle": "PSLV - C20",
+      "mission_type": null,
+      "orbit_type": "SSO",
+      "mass_kg": 407.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 64,
+      "name": "IRNSS-1A",
+      "launch_date": "2013-07-01",
+      "launch_vehicle": "PSLV - C22",
+      "mission_type": null,
+      "orbit_type": "GEO",
+      "mass_kg": 1425.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 65,
+      "name": "INSAT-3D",
+      "launch_date": "2013-07-26",
+      "launch_vehicle": "Ariane-5 VA-214",
+      "mission_type": "Meteorological and Search & Rescue Services",
+      "orbit_type": "GEO",
+      "mass_kg": 2060.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 66,
+      "name": "GSAT-7",
+      "launch_date": "2013-08-30",
+      "launch_vehicle": "Ariane-5 VA-215",
+      "mission_type": "Communication",
+      "orbit_type": "GEO",
+      "mass_kg": 2650.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 67,
+      "name": "Mars Orbiter Mission Spacecraft",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 68,
+      "name": "GSAT-14",
+      "launch_date": "2014-01-05",
+      "launch_vehicle": "GSLV-D5",
+      "mission_type": null,
+      "orbit_type": "GEO",
+      "mass_kg": 1982.0,
+      "status": "active"
+    },
+    {
+      "id": 69,
+      "name": "IRNSS-1B",
+      "launch_date": "2014-04-04",
+      "launch_vehicle": "PSLV - C24",
+      "mission_type": null,
+      "orbit_type": "GEO",
+      "mass_kg": 1432.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 70,
+      "name": "IRNSS-1C",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 71,
+      "name": "GSAT-16",
+      "launch_date": "2001-04-18",
+      "launch_vehicle": "GSLV – D1",
+      "mission_type": "Communication",
+      "orbit_type": "GEO",
+      "mass_kg": 1530.0,
+      "status": "unknown"
+    },
+    {
+      "id": 72,
+      "name": "Crew module Atmospheric Re-entry Experiment (CARE)",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 73,
+      "name": "IRNSS-1D",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 74,
+      "name": "GSAT-6",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": "unknown"
+    },
+    {
+      "id": 75,
+      "name": "Astrosat",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 76,
+      "name": "GSAT-15",
+      "launch_date": "2015-11-11",
+      "launch_vehicle": "Ariane-5 VA-227",
+      "mission_type": "Communication and Satellite Navigation",
+      "orbit_type": "GEO",
+      "mass_kg": 3164.0,
+      "status": "active"
+    },
+    {
+      "id": 77,
+      "name": "IRNSS-1E",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 78,
+      "name": "IRNSS-1F",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 79,
+      "name": "IRNSS-1G",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 80,
+      "name": "CARTOSAT-2 Series Satellite",
+      "launch_date": "2007-01-10",
+      "launch_vehicle": "PSLV- C7",
+      "mission_type": "Remote Sensing",
+      "orbit_type": "SSO",
+      "mass_kg": 650.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 81,
+      "name": "INSAT-3DR",
+      "launch_date": "2013-07-26",
+      "launch_vehicle": "Ariane-5 VA-214",
+      "mission_type": "Meteorological and Search & Rescue Services",
+      "orbit_type": "GEO",
+      "mass_kg": 2060.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 82,
+      "name": "SCATSAT-1",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 83,
+      "name": "GSAT-18",
+      "launch_date": "2001-04-18",
+      "launch_vehicle": "GSLV – D1",
+      "mission_type": "Communication",
+      "orbit_type": "GEO",
+      "mass_kg": 1530.0,
+      "status": "unknown"
+    },
+    {
+      "id": 84,
+      "name": "RESOURCESAT-2A",
+      "launch_date": "2011-04-20",
+      "launch_vehicle": "PSLV- C16",
+      "mission_type": "Remote Sensing",
+      "orbit_type": "SSO",
+      "mass_kg": 1206.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 85,
+      "name": "INS-1B",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 86,
+      "name": "INS-1A",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 87,
+      "name": "Cartosat-2 Series Satellite",
+      "launch_date": "2007-01-10",
+      "launch_vehicle": "PSLV- C7",
+      "mission_type": "Remote Sensing",
+      "orbit_type": "SSO",
+      "mass_kg": 650.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 88,
+      "name": "GSAT-9",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 89,
+      "name": "GSAT-19",
+      "launch_date": "2001-04-18",
+      "launch_vehicle": "GSLV – D1",
+      "mission_type": "Communication",
+      "orbit_type": "GEO",
+      "mass_kg": 1530.0,
+      "status": "unknown"
+    },
+    {
+      "id": 90,
+      "name": "Cartosat-2 Series Satellite",
+      "launch_date": "2007-01-10",
+      "launch_vehicle": "PSLV- C7",
+      "mission_type": "Remote Sensing",
+      "orbit_type": "SSO",
+      "mass_kg": 650.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 91,
+      "name": "GSAT-17",
+      "launch_date": "2001-04-18",
+      "launch_vehicle": "GSLV – D1",
+      "mission_type": "Communication",
+      "orbit_type": "GEO",
+      "mass_kg": 1530.0,
+      "status": "unknown"
+    },
+    {
+      "id": 92,
+      "name": "IRNSS-1H",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 93,
+      "name": "INS-1C",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 94,
+      "name": "Cartosat-2 Series Satellite",
+      "launch_date": "2007-01-10",
+      "launch_vehicle": "PSLV- C7",
+      "mission_type": "Remote Sensing",
+      "orbit_type": "SSO",
+      "mass_kg": 650.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 95,
+      "name": "Microsat",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 96,
+      "name": "GSAT-6A",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": "unknown"
+    },
+    {
+      "id": 97,
+      "name": "IRNSS-1I",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 98,
+      "name": "GSAT-29",
+      "launch_date": "2003-05-08",
+      "launch_vehicle": "GSLV–D2",
+      "mission_type": "Communication",
+      "orbit_type": "GEO",
+      "mass_kg": 1800.0,
+      "status": "unknown"
+    },
+    {
+      "id": 99,
+      "name": "HysIS",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 100,
+      "name": "GSAT-11 Mission",
+      "launch_date": "2001-04-18",
+      "launch_vehicle": "GSLV – D1",
+      "mission_type": "Communication",
+      "orbit_type": "GEO",
+      "mass_kg": 1530.0,
+      "status": "unknown"
+    },
+    {
+      "id": 101,
+      "name": "GSAT-7A",
+      "launch_date": "2013-08-30",
+      "launch_vehicle": "Ariane-5 VA-215",
+      "mission_type": "Communication",
+      "orbit_type": "GEO",
+      "mass_kg": 2650.0,
+      "status": "decommissioned"
+    },
+    {
+      "id": 102,
+      "name": "Microsat-R",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 103,
+      "name": "GSAT-31",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 104,
+      "name": "EMISAT",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 105,
+      "name": "RISAT-2B",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": "LEO",
+      "mass_kg": 628.0,
+      "status": "unknown"
+    },
+    {
+      "id": 106,
+      "name": "Chandrayaan2",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 107,
+      "name": "Cartosat-3",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": "LEO",
+      "mass_kg": 1625.0,
+      "status": "unknown"
+    },
+    {
+      "id": 108,
+      "name": "RISAT-2BR1",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": "LEO",
+      "mass_kg": 628.0,
+      "status": "unknown"
+    },
+    {
+      "id": 109,
+      "name": "GSAT-30",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 110,
+      "name": "EOS-01",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 111,
+      "name": "CMS-01",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 112,
+      "name": "EOS-03",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    },
+    {
+      "id": 113,
+      "name": "Chandrayaan3",
+      "launch_date": null,
+      "launch_vehicle": null,
+      "mission_type": null,
+      "orbit_type": null,
+      "mass_kg": null,
+      "status": null
+    }
+  ]
 }
