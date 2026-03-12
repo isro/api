@@ -6,6 +6,11 @@
     "repository": "isro.vercel.app",
     "author": "isro",
     "license": "MIT",
+    "scripts": {
+        "validate": "node scripts/validate_schemas.js"
+    },
     "dependencies": {},
-    "devDependencies": {}
+    "devDependencies": {
+        "ajv": "^8.17.1"
+    }
 }

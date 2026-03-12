@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Spacecrafts",
+  "type": "object",
+  "required": ["spacecrafts"],
+  "additionalProperties": false,
+  "properties": {
+    "spacecrafts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "integer", "minimum": 1 },
+          "name": { "type": "string", "minLength": 1 },
+          "launch_date": { "type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+          "launch_vehicle": { "type": ["string", "null"] },
+          "mission_type": { "type": ["string", "null"] },
+          "orbit_type": { "type": ["string", "null"], "enum": ["LEO", "SSO", "GEO", "Lunar", "Interplanetary", "Failed", null] },
+          "mass_kg": { "type": ["number", "null"], "minimum": 0 },
+          "status": { "type": ["string", "null"], "enum": ["active", "decommissioned", "failed", "unknown", null] }
+        }
+      }
+    }
+  }
+}

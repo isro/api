@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Launchers",
+  "type": "object",
+  "required": ["launchers"],
+  "additionalProperties": false,
+  "properties": {
+    "launchers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "integer", "minimum": 1 },
+          "vehicle_family": {
+            "type": ["string", "null"],
+            "enum": ["SLV", "ASLV", "PSLV", "GSLV", "GSLV Mk III", "LVM-3", "RLV", "Scramjet-TD", null]
+          }
+        }
+      }
+    }
+  }
+}

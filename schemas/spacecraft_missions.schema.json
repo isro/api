@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Spacecraft Missions",
+  "type": "object",
+  "required": ["spacecraft_missions"],
+  "additionalProperties": false,
+  "properties": {
+    "spacecraft_missions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "status"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "integer", "minimum": 1 },
+          "name": { "type": "string", "minLength": 1 },
+          "mission_type": { "type": ["string", "null"] },
+          "launch_date": { "type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+          "launch_site": { "type": ["string", "null"] },
+          "launch_vehicle": { "type": ["string", "null"] },
+          "orbit": { "type": ["string", "null"] },
+          "orbit_type": { "type": ["string", "null"], "enum": ["LEO", "SSO", "GEO", "Lunar", "Interplanetary", "Failed", null] },
+          "altitude_km": { "type": ["number", "null"], "minimum": 0 },
+          "inclination_deg": { "type": ["number", "null"], "minimum": 0, "maximum": 180 },
+          "mass_kg": { "type": ["number", "null"], "minimum": 0 },
+          "power_watts": { "type": ["number", "null"], "minimum": 0 },
+          "mission_life": { "type": ["string", "null"] },
+          "status": { "type": "string", "enum": ["active", "decommissioned", "failed", "unknown"] },
+          "payloads": { "type": ["string", "null"] },
+          "stabilization": { "type": ["string", "null"] },
+          "propulsion": { "type": ["string", "null"] }
+        }
+      }
+    }
+  }
+}

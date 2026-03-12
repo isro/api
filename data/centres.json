@@ -1,268 +1,268 @@
 {
-    "centres": [
-        {
-            "id": 1,
-            "name": "Semi-Conductor Laboratory (SCL)",
-            "Place": "Chandigarh",
-            "State": "Punjab/Haryana"
-        },
-        {
-            "id": 2,
-            "name": "Western RRSC",
-            "Place": "Jodhpur",
-            "State": "Rajasthan"
-        },
-        {
-            "id": 3,
-            "name": "Solar Observatory",
-            "Place": "Udaipur",
-            "State": "Rajasthan"
-        },
-        {
-            "id": 4,
-            "name": "Space Applications Centre (SAC)",
-            "Place": "Ahmedabad",
-            "State": "Gujarat"
-        },
-        {
-            "id": 5,
-            "name": "Physical Research Laboratory (PRL)",
-            "Place": "Ahmedabad",
-            "State": "Gujarat"
-        },
-        {
-            "id": 6,
-            "name": "Development and Educational Communication Unit (DECU)",
-            "Place": "Ahmedabad",
-            "State": "Gujarat"
-        },
-        {
-            "id": 7,
-            "name": "Infrared Observatory",
-            "Place": "Mt.Abu",
-            "State": "Rajasthan"
-        },
-        {
-            "id": 8,
-            "name": "Master Control Facility-B (MCF)",
-            "Place": "Bhopal",
-            "State": "Madhya Pradesh"
-        },
-        {
-            "id": 9,
-            "name": "ISRO Liaison Office",
-            "Place": "Mumbai",
-            "State": "Maharashtra"
-        },
-        {
-            "id": 10,
-            "name": "Indian Deep Space Network (IDSN)",
-            "Place": "Byalalu",
-            "State": "Karnataka"
-        },
-        {
-            "id": 11,
-            "name": "Indian Space Science Data Centre (ISSDC)",
-            "Place": "Byalalu",
-            "State": "Karnataka"
-        },
-        {
-            "id": 12,
-            "name": "Master Control Facility (MCF)",
-            "Place": "Hassan",
-            "State": "Karnataka"
-        },
-        {
-            "id": 13,
-            "name": "Ammonium Perchlorate Experimental Plant",
-            "Place": "Aluva",
-            "State": "Kerala"
-        },
-        {
-            "id": 14,
-            "name": "Space Commission",
-            "Place": "Bengaluru",
-            "State": "Karnataka"
-        },
-        {
-            "id": 15,
-            "name": "Department of Space and ISRO Headquarters",
-            "Place": "Bengaluru",
-            "State": "Karnataka"
-        },
-        {
-            "id": 16,
-            "name": "INSAT Programme Office",
-            "Place": "Bengaluru",
-            "State": "Karnataka"
-        },
-        {
-            "id": 17,
-            "name": "NNRMS Secretariat",
-            "Place": "Bengaluru",
-            "State": "Karnataka"
-        },
-        {
-            "id": 18,
-            "name": "Civil Engineering Programme Office",
-            "Place": "Bengaluru",
-            "State": "Karnataka"
-        },
-        {
-            "id": 19,
-            "name": "Antrix Corporation",
-            "Place": "Bengaluru",
-            "State": "Karnataka"
-        },
-        {
-            "id": 20,
-            "name": "U R Rao Satellite Centre (URSC)",
-            "Place": "Bengaluru",
-            "State": "Karnataka"
-        },
-        {
-            "id": 21,
-            "name": "Laboratory for Electro-Optical Systems (LEOS)",
-            "Place": "Bengaluru",
-            "State": "Karnataka"
-        },
-        {
-            "id": 22,
-            "name": "ISRO Telemetry, Tracking and Command Network (ISTRAC)",
-            "Place": "Bengaluru",
-            "State": "Karnataka"
-        },
-        {
-            "id": 23,
-            "name": "Southern RRSC",
-            "Place": "Bengaluru",
-            "State": "Karnataka"
-        },
-        {
-            "id": 24,
-            "name": "Liquid Propulsion Systems Centre (LPSC)",
-            "Place": "Bengaluru",
-            "State": "Karnataka"
-        },
-        {
-            "id": 25,
-            "name": "Human Space Flight Centre (HSFC)",
-            "Place": "Bengaluru",
-            "State": "Karnataka"
-        },
-        {
-            "id": 26,
-            "name": "New Space India Limited (NSIL)",
-            "Place": "Bengaluru",
-            "State": "Karnataka"
-        },
-        {
-            "id": 27,
-            "name": "New Space India Limited (NSIL)",
-            "Place": "New Delhi",
-            "State": "Delhi"
-        },
-        {
-            "id": 28,
-            "name": "ISRO Branch Office",
-            "Place": "New Delhi",
-            "State": "Delhi"
-        },
-        {
-            "id": 29,
-            "name": "Delhi Earth Station",
-            "Place": "New Delhi",
-            "State": "Delhi"
-        },
-        {
-            "id": 30,
-            "name": "Indian Institute of Remote Sensing (IIRS)",
-            "Place": "Dehradun",
-            "State": "Uttarakhand"
-        },
-        {
-            "id": 31,
-            "name": "Centre for Space Science and Technology Education in Asia-Pacific (CSSTEAP)",
-            "Place": "Dehradun",
-            "State": "Uttarakhand"
-        },
-        {
-            "id": 32,
-            "name": "ISTRAC Ground Station",
-            "Place": "Lucknow",
-            "State": "Uttar Pradesh"
-        },
-        {
-            "id": 33,
-            "name": "Eastern RRSC",
-            "Place": "Kolkata",
-            "State": "West Bengal"
-        },
-        {
-            "id": 34,
-            "name": "North Eastern Space Application Centre (NE-SAC)",
-            "Place": "Shillong",
-            "State": "Meghalaya"
-        },
-        {
-            "id": 35,
-            "name": "Central RRSC",
-            "Place": "Nagpur",
-            "State": "Maharashtra"
-        },
-        {
-            "id": 36,
-            "name": "National Remote Sensing Centre (NRSC)",
-            "Place": "Hyderabad",
-            "State": "Telangana"
-        },
-        {
-            "id": 37,
-            "name": "National Atmospheric Research Laboratory (NARL)",
-            "Place": "Tirupati",
-            "State": "Andhra Pradesh"
-        },
-        {
-            "id": 38,
-            "name": "Down Range Station",
-            "Place": "Port Blair",
-            "State": "Andaman and Nicobar"
-        },
-        {
-            "id": 39,
-            "name": "Satish Dhawan Space Centre (SDSC), SHAR",
-            "Place": "Sriharikota",
-            "State": "Andhra Pradesh"
-        },
-        {
-            "id": 40,
-            "name": "ISRO Propulsion Complex",
-            "Place": "Mahendragiri",
-            "State": "Tamil Nadu"
-        },
-        {
-            "id": 41,
-            "name": "Vikram Sarabhai Space Centre (VSSC)",
-            "Place": "Thiruvananthapuram",
-            "State": "Kerala"
-        },
-        {
-            "id": 42,
-            "name": "Liquid Propulsion Systems Centre (LPSC)",
-            "Place": "Thiruvananthapuram",
-            "State": "Kerala"
-        },
-        {
-            "id": 43,
-            "name": "ISRO Inertial Systems Unit (IISU)",
-            "Place": "Thiruvananthapuram",
-            "State": "Kerala"
-        },
-        {
-            "id": 44,
-            "name": "Indian Institute of Space Science and Technology (IIST)",
-            "Place": "Thiruvananthapuram",
-            "State": "Kerala"
-        }
-    ]
+  "centres": [
+    {
+      "id": 1,
+      "name": "Semi-Conductor Laboratory (SCL)",
+      "place": "Chandigarh",
+      "state": "Punjab/Haryana"
+    },
+    {
+      "id": 2,
+      "name": "Western RRSC",
+      "place": "Jodhpur",
+      "state": "Rajasthan"
+    },
+    {
+      "id": 3,
+      "name": "Solar Observatory",
+      "place": "Udaipur",
+      "state": "Rajasthan"
+    },
+    {
+      "id": 4,
+      "name": "Space Applications Centre (SAC)",
+      "place": "Ahmedabad",
+      "state": "Gujarat"
+    },
+    {
+      "id": 5,
+      "name": "Physical Research Laboratory (PRL)",
+      "place": "Ahmedabad",
+      "state": "Gujarat"
+    },
+    {
+      "id": 6,
+      "name": "Development and Educational Communication Unit (DECU)",
+      "place": "Ahmedabad",
+      "state": "Gujarat"
+    },
+    {
+      "id": 7,
+      "name": "Infrared Observatory",
+      "place": "Mt.Abu",
+      "state": "Rajasthan"
+    },
+    {
+      "id": 8,
+      "name": "Master Control Facility-B (MCF)",
+      "place": "Bhopal",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "id": 9,
+      "name": "ISRO Liaison Office",
+      "place": "Mumbai",
+      "state": "Maharashtra"
+    },
+    {
+      "id": 10,
+      "name": "Indian Deep Space Network (IDSN)",
+      "place": "Byalalu",
+      "state": "Karnataka"
+    },
+    {
+      "id": 11,
+      "name": "Indian Space Science Data Centre (ISSDC)",
+      "place": "Byalalu",
+      "state": "Karnataka"
+    },
+    {
+      "id": 12,
+      "name": "Master Control Facility (MCF)",
+      "place": "Hassan",
+      "state": "Karnataka"
+    },
+    {
+      "id": 13,
+      "name": "Ammonium Perchlorate Experimental Plant",
+      "place": "Aluva",
+      "state": "Kerala"
+    },
+    {
+      "id": 14,
+      "name": "Space Commission",
+      "place": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "id": 15,
+      "name": "Department of Space and ISRO Headquarters",
+      "place": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "id": 16,
+      "name": "INSAT Programme Office",
+      "place": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "id": 17,
+      "name": "NNRMS Secretariat",
+      "place": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "id": 18,
+      "name": "Civil Engineering Programme Office",
+      "place": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "id": 19,
+      "name": "Antrix Corporation",
+      "place": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "id": 20,
+      "name": "U R Rao Satellite Centre (URSC)",
+      "place": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "id": 21,
+      "name": "Laboratory for Electro-Optical Systems (LEOS)",
+      "place": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "id": 22,
+      "name": "ISRO Telemetry, Tracking and Command Network (ISTRAC)",
+      "place": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "id": 23,
+      "name": "Southern RRSC",
+      "place": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "id": 24,
+      "name": "Liquid Propulsion Systems Centre (LPSC)",
+      "place": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "id": 25,
+      "name": "Human Space Flight Centre (HSFC)",
+      "place": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "id": 26,
+      "name": "New Space India Limited (NSIL)",
+      "place": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "id": 27,
+      "name": "New Space India Limited (NSIL)",
+      "place": "New Delhi",
+      "state": "Delhi"
+    },
+    {
+      "id": 28,
+      "name": "ISRO Branch Office",
+      "place": "New Delhi",
+      "state": "Delhi"
+    },
+    {
+      "id": 29,
+      "name": "Delhi Earth Station",
+      "place": "New Delhi",
+      "state": "Delhi"
+    },
+    {
+      "id": 30,
+      "name": "Indian Institute of Remote Sensing (IIRS)",
+      "place": "Dehradun",
+      "state": "Uttarakhand"
+    },
+    {
+      "id": 31,
+      "name": "Centre for Space Science and Technology Education in Asia-Pacific (CSSTEAP)",
+      "place": "Dehradun",
+      "state": "Uttarakhand"
+    },
+    {
+      "id": 32,
+      "name": "ISTRAC Ground Station",
+      "place": "Lucknow",
+      "state": "Uttar Pradesh"
+    },
+    {
+      "id": 33,
+      "name": "Eastern RRSC",
+      "place": "Kolkata",
+      "state": "West Bengal"
+    },
+    {
+      "id": 34,
+      "name": "North Eastern Space Application Centre (NE-SAC)",
+      "place": "Shillong",
+      "state": "Meghalaya"
+    },
+    {
+      "id": 35,
+      "name": "Central RRSC",
+      "place": "Nagpur",
+      "state": "Maharashtra"
+    },
+    {
+      "id": 36,
+      "name": "National Remote Sensing Centre (NRSC)",
+      "place": "Hyderabad",
+      "state": "Telangana"
+    },
+    {
+      "id": 37,
+      "name": "National Atmospheric Research Laboratory (NARL)",
+      "place": "Tirupati",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "id": 38,
+      "name": "Down Range Station",
+      "place": "Port Blair",
+      "state": "Andaman and Nicobar"
+    },
+    {
+      "id": 39,
+      "name": "Satish Dhawan Space Centre (SDSC), SHAR",
+      "place": "Sriharikota",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "id": 40,
+      "name": "ISRO Propulsion Complex",
+      "place": "Mahendragiri",
+      "state": "Tamil Nadu"
+    },
+    {
+      "id": 41,
+      "name": "Vikram Sarabhai Space Centre (VSSC)",
+      "place": "Thiruvananthapuram",
+      "state": "Kerala"
+    },
+    {
+      "id": 42,
+      "name": "Liquid Propulsion Systems Centre (LPSC)",
+      "place": "Thiruvananthapuram",
+      "state": "Kerala"
+    },
+    {
+      "id": 43,
+      "name": "ISRO Inertial Systems Unit (IISU)",
+      "place": "Thiruvananthapuram",
+      "state": "Kerala"
+    },
+    {
+      "id": 44,
+      "name": "Indian Institute of Space Science and Technology (IIST)",
+      "place": "Thiruvananthapuram",
+      "state": "Kerala"
+    }
+  ]
 }
