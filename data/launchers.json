@@ -1,247 +1,439 @@
 {
-    "launchers": [
-        {
-            "id": "SLV-3E1"
-        },
-        {
-            "id": "SLV-3E2"
-        },
-        {
-            "id": "SLV-3D1"
-        },
-        {
-            "id": "SLV-3"
-        },
-        {
-            "id": "ASLV-D1"
-        },
-        {
-            "id": "ASLV-D2"
-        },
-        {
-            "id": "ASLV-D3"
-        },
-        {
-            "id": "PSLV-D1"
-        },
-        {
-            "id": "ASLV-D4"
-        },
-        {
-            "id": "PSLV-D2"
-        },
-        {
-            "id": "PSLV-D3"
-        },
-        {
-            "id": "PSLV-C1"
-        },
-        {
-            "id": "PSLV-C2"
-        },
-        {
-            "id": "GSLV-D1"
-        },
-        {
-            "id": "PSLV-C3"
-        },
-        {
-            "id": "PSLV-C4"
-        },
-        {
-            "id": "GSLV-D2"
-        },
-        {
-            "id": "PSLV-C5"
-        },
-        {
-            "id": "GSLV-F01"
-        },
-        {
-            "id": "PSLV-C6"
-        },
-        {
-            "id": "GSLV-F02"
-        },
-        {
-            "id": "PSLV-C7"
-        },
-        {
-            "id": "PSLV-C8"
-        },
-        {
-            "id": "GSLV-F04"
-        },
-        {
-            "id": "PSLV-C10"
-        },
-        {
-            "id": "PSLV-C9"
-        },
-        {
-            "id": "PSLV-C11"
-        },
-        {
-            "id": "PSLV-C12"
-        },
-        {
-            "id": "PSLV-C14"
-        },
-        {
-            "id": "GSLV-D3"
-        },
-        {
-            "id": "PSLV-C15"
-        },
-        {
-            "id": "GSLV-F06"
-        },
-        {
-            "id": "PSLV-C16"
-        },
-        {
-            "id": "PSLV-C17"
-        },
-        {
-            "id": "PSLV-C18"
-        },
-        {
-            "id": "PSLV-C19"
-        },
-        {
-            "id": "PSLV-C21"
-        },
-        {
-            "id": "PSLV-C20"
-        },
-        {
-            "id": "PSLV-C22"
-        },
-        {
-            "id": "PSLV-C25"
-        },
-        {
-            "id": "GSLV-D5"
-        },
-        {
-            "id": "PSLV-C24"
-        },
-        {
-            "id": "PSLV-C23"
-        },
-        {
-            "id": "PSLV-C26"
-        },
-        {
-            "id": "LVM-3"
-        },
-        {
-            "id": "PSLV-C27"
-        },
-        {
-            "id": "PSLV-C28"
-        },
-        {
-            "id": "GSLV-D6"
-        },
-        {
-            "id": "PSLV-C30"
-        },
-        {
-            "id": "PSLV-C29"
-        },
-        {
-            "id": "PSLV-C31"
-        },
-        {
-            "id": "PSLV-C32"
-        },
-        {
-            "id": "PSLV-C33"
-        },
-        {
-            "id": "RLV-TD"
-        },
-        {
-            "id": "PSLV-C34"
-        },
-        {
-            "id": "Scramjet Engine - TD"
-        },
-        {
-            "id": "GSLV-F05"
-        },
-        {
-            "id": "PSLV-C35"
-        },
-        {
-            "id": "PSLV-C36"
-        },
-        {
-            "id": "PSLV-C37"
-        },
-        {
-            "id": "GSLV-F09"
-        },
-        {
-            "id": "GSLV Mk III-D1"
-        },
-        {
-            "id": "PSLV-C38"
-        },
-        {
-            "id": "PSLV-C39"
-        },
-        {
-            "id": "PSLV-C40"
-        },
-        {
-            "id": "GSLV-F08"
-        },
-        {
-            "id": "PSLV-C41"
-        },
-        {
-            "id": "PSLV-C42"
-        },
-        {
-            "id": "GSLV Mk III-D2"
-        },
-        {
-            "id": "PSLV-C43"
-        },
-        {
-            "id": "GSLV-F11"
-        },
-        {
-            "id": "PSLV-C44"
-        },
-        {
-            "id": "PSLV-C45"
-        },
-        {
-            "id": "PSLV-C46"
-        },
-        {
-            "id": "GSLV-Mk III - M1"
-        },
-        {
-            "id": "PSLV-C47"
-        },
-        {
-            "id": "PSLV-C48"
-        },
-        {
-            "id": "PSLV-C49"
-        },
-        {
-            "id": "PSLV-C50"
-        },
-        {
-            "id": "PSLV-C51"
-        },
-        {
-            "id": "GSLV-F10"
-        }
-    ]
+  "launchers": [
+    {
+      "id": "SLV-3E1",
+      "vehicle_family": "SLV"
+    },
+    {
+      "id": "SLV-3E2",
+      "vehicle_family": "SLV"
+    },
+    {
+      "id": "SLV-3D1",
+      "vehicle_family": "SLV"
+    },
+    {
+      "id": "SLV-3",
+      "vehicle_family": "SLV"
+    },
+    {
+      "id": "ASLV-D1",
+      "vehicle_family": "ASLV"
+    },
+    {
+      "id": "ASLV-D2",
+      "vehicle_family": "ASLV"
+    },
+    {
+      "id": "ASLV-D3",
+      "vehicle_family": "ASLV"
+    },
+    {
+      "id": "PSLV-D1",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "ASLV-D4",
+      "vehicle_family": "ASLV"
+    },
+    {
+      "id": "PSLV-D2",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "PSLV-D3",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "PSLV-C1",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "PSLV-C2",
+      "vehicle_family": "PSLV",
+      "customer_satellites_launched": [
+        "DLR-TUBSAT",
+        "KITSAT-3"
+      ]
+    },
+    {
+      "id": "GSLV-D1",
+      "vehicle_family": "GSLV"
+    },
+    {
+      "id": "PSLV-C3",
+      "vehicle_family": "PSLV",
+      "customer_satellites_launched": [
+        "BIRD",
+        "PROBA"
+      ]
+    },
+    {
+      "id": "PSLV-C4",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "GSLV-D2",
+      "vehicle_family": "GSLV"
+    },
+    {
+      "id": "PSLV-C5",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "GSLV-F01",
+      "vehicle_family": "GSLV"
+    },
+    {
+      "id": "PSLV-C6",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "GSLV-F02",
+      "vehicle_family": "GSLV"
+    },
+    {
+      "id": "PSLV-C7",
+      "vehicle_family": "PSLV",
+      "customer_satellites_launched": [
+        "LAPAN-TUBSAT",
+        "PEHUENSAT-1"
+      ]
+    },
+    {
+      "id": "PSLV-C8",
+      "vehicle_family": "PSLV",
+      "customer_satellites_launched": [
+        "AGILE"
+      ]
+    },
+    {
+      "id": "GSLV-F04",
+      "vehicle_family": "GSLV"
+    },
+    {
+      "id": "PSLV-C10",
+      "vehicle_family": "PSLV",
+      "customer_satellites_launched": [
+        "TESCAR"
+      ]
+    },
+    {
+      "id": "PSLV-C9",
+      "vehicle_family": "PSLV",
+      "customer_satellites_launched": [
+        "CAN-X2",
+        "CUTE-1.7",
+        "DELFI-C3",
+        "AAUSAT-II",
+        "COMPASS-I",
+        "SEEDS",
+        "NLSS",
+        "RUBIN-8"
+      ]
+    },
+    {
+      "id": "PSLV-C11",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "PSLV-C12",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "PSLV-C14",
+      "vehicle_family": "PSLV",
+      "customer_satellites_launched": [
+        "CUBESAT-1",
+        "CUBESAT-2",
+        "CUBESAT-3",
+        "CUBESAT-4",
+        "RUBIN-9.1",
+        "RUBIN-9.2"
+      ]
+    },
+    {
+      "id": "GSLV-D3",
+      "vehicle_family": "GSLV"
+    },
+    {
+      "id": "PSLV-C15",
+      "vehicle_family": "PSLV",
+      "customer_satellites_launched": [
+        "ALSAT-2A",
+        "NLS6.1 AISSAT-1",
+        "NLS6.2 TISAT-1"
+      ]
+    },
+    {
+      "id": "GSLV-F06",
+      "vehicle_family": "GSLV"
+    },
+    {
+      "id": "PSLV-C16",
+      "vehicle_family": "PSLV",
+      "customer_satellites_launched": [
+        "X-SAT"
+      ]
+    },
+    {
+      "id": "PSLV-C17",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "PSLV-C18",
+      "vehicle_family": "PSLV",
+      "customer_satellites_launched": [
+        "VesselSat-1"
+      ]
+    },
+    {
+      "id": "PSLV-C19",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "PSLV-C21",
+      "vehicle_family": "PSLV",
+      "customer_satellites_launched": [
+        "SPOT-6",
+        "PROITERES"
+      ]
+    },
+    {
+      "id": "PSLV-C20",
+      "vehicle_family": "PSLV",
+      "customer_satellites_launched": [
+        "SAPPHIRE",
+        "NEOSSAT",
+        "NLS8.1",
+        "NLS8.2",
+        "NLS8.3",
+        "STRAND-1"
+      ]
+    },
+    {
+      "id": "PSLV-C22",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "PSLV-C25",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "GSLV-D5",
+      "vehicle_family": "GSLV"
+    },
+    {
+      "id": "PSLV-C24",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "PSLV-C23",
+      "vehicle_family": "PSLV",
+      "customer_satellites_launched": [
+        "SPOT-7",
+        "AISAT",
+        "NLS7.1(CAN-X4)",
+        "NLS7.2(CAN-X5)",
+        "VELOX-1"
+      ]
+    },
+    {
+      "id": "PSLV-C26",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "LVM-3",
+      "vehicle_family": "LVM-3"
+    },
+    {
+      "id": "PSLV-C27",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "PSLV-C28",
+      "vehicle_family": "PSLV",
+      "customer_satellites_launched": [
+        "DMC3-1",
+        "DMC3-2",
+        "DMC3-3",
+        "CBNT-1",
+        "De-OrbitSail"
+      ]
+    },
+    {
+      "id": "GSLV-D6",
+      "vehicle_family": "GSLV"
+    },
+    {
+      "id": "PSLV-C30",
+      "vehicle_family": "PSLV",
+      "customer_satellites_launched": [
+        "LAPAN-A2",
+        "NLS-14(Ev9)",
+        "LEMUR-1",
+        "LEMUR-2",
+        "LEMUR-3",
+        "LEMUR-4"
+      ]
+    },
+    {
+      "id": "PSLV-C29",
+      "vehicle_family": "PSLV",
+      "customer_satellites_launched": [
+        "TeLEOS",
+        "Kent Ridge-I",
+        "VELOX-C1",
+        "VELOX-II",
+        "Galassia",
+        "Athenoxat-I"
+      ]
+    },
+    {
+      "id": "PSLV-C31",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "PSLV-C32",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "PSLV-C33",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "RLV-TD",
+      "vehicle_family": "RLV"
+    },
+    {
+      "id": "PSLV-C34",
+      "vehicle_family": "PSLV",
+      "customer_satellites_launched": [
+        "LAPAN-A3",
+        "BIROS",
+        "M3MSat",
+        "SkySat Gen2-1",
+        "GHGSat-D",
+        "DOVE QP1.1",
+        "DOVE QP1.2",
+        "DOVE QP1.3",
+        "DOVE QP1.4",
+        "DOVE QP2.1",
+        "DOVE QP2.2",
+        "DOVE QP2.3",
+        "DOVE QP2.4",
+        "DOVE QP3.1",
+        "DOVE QP3.2",
+        "DOVE QP3.3",
+        "DOVE QP3.4"
+      ]
+    },
+    {
+      "id": "Scramjet Engine - TD",
+      "vehicle_family": "Scramjet-TD"
+    },
+    {
+      "id": "GSLV-F05",
+      "vehicle_family": "GSLV"
+    },
+    {
+      "id": "PSLV-C35",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "PSLV-C36",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "PSLV-C37",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "GSLV-F09",
+      "vehicle_family": "GSLV"
+    },
+    {
+      "id": "GSLV Mk III-D1",
+      "vehicle_family": "GSLV Mk III"
+    },
+    {
+      "id": "PSLV-C38",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "PSLV-C39",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "PSLV-C40",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "GSLV-F08",
+      "vehicle_family": "GSLV"
+    },
+    {
+      "id": "PSLV-C41",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "PSLV-C42",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "GSLV Mk III-D2",
+      "vehicle_family": "GSLV Mk III"
+    },
+    {
+      "id": "PSLV-C43",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "GSLV-F11",
+      "vehicle_family": "GSLV"
+    },
+    {
+      "id": "PSLV-C44",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "PSLV-C45",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "PSLV-C46",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "GSLV-Mk III - M1",
+      "vehicle_family": "GSLV Mk III"
+    },
+    {
+      "id": "PSLV-C47",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "PSLV-C48",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "PSLV-C49",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "PSLV-C50",
+      "vehicle_family": "PSLV"
+    },
+    {
+      "id": "PSLV-C51",
+      "vehicle_family": "PSLV",
+      "customer_satellites_launched": [
+        "AMAZONIA-1"
+      ]
+    },
+    {
+      "id": "GSLV-F10",
+      "vehicle_family": "GSLV"
+    }
+  ]
 }
