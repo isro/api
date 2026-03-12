@@ -1,20 +1,22 @@
-const fs = require("fs");
+const customerSatellites = require("../data/customer_satellites.json");
 
-// Load the customer satellite data from a JSON file
-let launchers = require("../data/customer_satellites.json");
+const ALLOWED_FILTERS = ["country", "launcher"];
 
-// Export an async function to handle requests
 module.exports = async (req, res) => {
   try {
-    // Send the customer satellite data as the response
-    res.send(launchers);
+    res.setHeader("Content-Type", "application/json");
+    let results = customerSatellites.customer_satellites;
+    for (const key of ALLOWED_FILTERS) {
+      if (req.query[key] !== undefined) {
+        const val = String(req.query[key]).toLowerCase();
+        results = results.filter(
+          (r) => r[key] != null && String(r[key]).toLowerCase() === val
+        );
+      }
+    }
+    res.send({ customer_satellites: results });
   } catch (error) {
-    // If there is an error, send a 500 status code and the error message and response
     res.status(500);
-    const response = error.response || {};
-    res.send({
-      message: error.message,
-      response,
-    });
+    res.send({ error: error.message });
   }
 };

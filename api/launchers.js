@@ -1,20 +1,22 @@
-const fs = require("fs");
+const data = require("../data/launchers.json");
 
-// Load the data for the available launchers from a JSON file
-let launchers = require("../data/launchers.json");
+const ALLOWED_FILTERS = ["vehicle_family"];
 
-// Export an async function to handle requests for the list of available launchers
 module.exports = async (req, res) => {
   try {
-    // Send the list of available launchers as the response
-    res.send(launchers);
+    res.setHeader("Content-Type", "application/json");
+    let results = data.launchers;
+    for (const key of ALLOWED_FILTERS) {
+      if (req.query[key] !== undefined) {
+        const val = String(req.query[key]).toLowerCase();
+        results = results.filter(
+          (r) => r[key] != null && String(r[key]).toLowerCase() === val
+        );
+      }
+    }
+    res.send({ launchers: results });
   } catch (error) {
-    // If there is an error, send a 500 status code and the error message and response
     res.status(500);
-    const response = error.response || {};
-    res.send({
-      message: error.message,
-      response,
-    });
+    res.send({ error: error.message });
   }
 };

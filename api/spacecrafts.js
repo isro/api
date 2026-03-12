@@ -1,20 +1,22 @@
-const fs = require("fs");
+const data = require("../data/spacecrafts.json");
 
-// Load the data for the available spacecrafts from a JSON file
-let spacecrafts = require("../data/spacecrafts.json");
+const ALLOWED_FILTERS = ["status", "orbit_type", "mission_type", "launch_vehicle"];
 
-// Export an async function to handle requests for the list of available spacecrafts
 module.exports = async (req, res) => {
   try {
-    // Send the list of available spacecrafts as the response
-    res.send(spacecrafts);
+    res.setHeader("Content-Type", "application/json");
+    let results = data.spacecrafts;
+    for (const key of ALLOWED_FILTERS) {
+      if (req.query[key] !== undefined) {
+        const val = String(req.query[key]).toLowerCase();
+        results = results.filter(
+          (r) => r[key] != null && String(r[key]).toLowerCase() === val
+        );
+      }
+    }
+    res.send({ spacecrafts: results });
   } catch (error) {
-    // If there is an error, send a 500 status code and the error message and response
     res.status(500);
-    const response = error.response || {};
-    res.send({
-      message: error.message,
-      response,
-    });
+    res.send({ error: error.message });
   }
 };
