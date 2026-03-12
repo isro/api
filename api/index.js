@@ -1,15 +1,22 @@
-// Export an async function to handle requests
+const endpoints = {
+  spacecrafts: "/api/spacecrafts",
+  launchers: "/api/launchers",
+  customer_satellites: "/api/customer_satellites",
+  centres: "/api/centres",
+  spacecraft_missions: "/api/spacecraft_missions",
+};
+
 module.exports = async (req, res) => {
   try {
-    // Send a message as the response
-    res.send("<pre> ISRO API v0.1.0 </pre>");
-  } catch (error) {
-    // If there is an error, send a 500 status code and the error message and response
-    res.status(500);
-    const response = error.response || {};
+    res.setHeader("Content-Type", "application/json");
     res.send({
-      message: error.message,
-      response,
+      name: "ISRO API",
+      version: "1.0.0",
+      description: "Open Source API for ISRO spacecraft, launcher, and mission data",
+      endpoints,
     });
+  } catch (error) {
+    res.status(500);
+    res.send({ error: error.message });
   }
 };
