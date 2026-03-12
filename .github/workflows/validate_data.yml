@@ -1,0 +1,30 @@
+name: Validate Data
+
+on:
+  pull_request:
+    paths:
+      - "data/**"
+      - "schemas/**"
+  push:
+    branches:
+      - master
+    paths:
+      - "data/**"
+      - "schemas/**"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Validate data files against schemas
+        run: node scripts/validate_schemas.js

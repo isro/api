@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Centres",
+  "type": "object",
+  "required": ["centres"],
+  "additionalProperties": false,
+  "properties": {
+    "centres": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "integer", "minimum": 1 },
+          "name": { "type": "string", "minLength": 1 },
+          "place": { "type": ["string", "null"] },
+          "state": { "type": ["string", "null"] }
+        }
+      }
+    }
+  }
+}
