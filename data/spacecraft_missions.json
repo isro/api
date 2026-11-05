@@ -1,5 +1,53 @@
 [
   {
+    "name": "NVS-03",
+    "id": 71,
+    "mission": "Navigation satellite providing continuity for the IRNSS series",
+    "launch_date": "October 28, 2026",
+    "launch_site": "Satish Dhawan Space Centre, Sriharikota, India",
+    "launch_vehicle": "GSLV-F18"
+  },
+  {
+    "name": "EOS-05",
+    "id": 70,
+    "mission": "Earth observation",
+    "launch_date": "August 29, 2026",
+    "launch_site": "Satish Dhawan Space Centre, Sriharikota, India",
+    "launch_vehicle": "GSLV-F17"
+  },
+  {
+    "name": "NISAR",
+    "id": 69,
+    "mission": "Joint NASA-ISRO Earth observation using L- and S-band synthetic aperture radar",
+    "launch_date": "July 30, 2025",
+    "launch_site": "Satish Dhawan Space Centre, Sriharikota, India",
+    "launch_vehicle": "GSLV-F16"
+  },
+  {
+    "name": "XPoSat",
+    "id": 68,
+    "mission": "X-ray polarimetry and astronomy",
+    "launch_date": "January 1, 2024",
+    "launch_site": "Satish Dhawan Space Centre, Sriharikota, India",
+    "launch_vehicle": "PSLV-C58"
+  },
+  {
+    "name": "Aditya-L1",
+    "id": 67,
+    "mission": "Solar observation from the Sun-Earth L1 point",
+    "launch_date": "September 2, 2023",
+    "launch_site": "Satish Dhawan Space Centre, Sriharikota, India",
+    "launch_vehicle": "PSLV-C57"
+  },
+  {
+    "name": "Chandrayaan-3",
+    "id": 66,
+    "mission": "Lunar landing and surface operations",
+    "launch_date": "July 14, 2023",
+    "launch_site": "Satish Dhawan Space Centre, Sriharikota, India",
+    "launch_vehicle": "LVM3-M4"
+  },
+  {
     "name": "RISAT-2BR1",
     "id": 65,
     "lift-off_weight": "628 kg",

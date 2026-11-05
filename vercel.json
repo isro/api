@@ -1,4 +1,10 @@
 {
+    "rewrites": [
+        {
+            "source": "/api/spacecraft_missions",
+            "destination": "/api/spacecraft_missions.js"
+        }
+    ],
     "headers": [
         {
             "source": "/api/(.*)",
