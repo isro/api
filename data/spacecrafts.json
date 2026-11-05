@@ -451,6 +451,26 @@
         {
             "id": 113,
             "name": "Chandrayaan3"
+        },
+        {
+            "id": 114,
+            "name": "Aditya-L1"
+        },
+        {
+            "id": 115,
+            "name": "XPoSat"
+        },
+        {
+            "id": 116,
+            "name": "NISAR"
+        },
+        {
+            "id": 117,
+            "name": "EOS-05"
+        },
+        {
+            "id": 118,
+            "name": "NVS-03"
         }
     ]
 }
